@@ -19,7 +19,7 @@ class AdidasSpider(scrapy.Spider):
     start_urls = ['https://shop.adidas.jp/']
 
     # driver.get('https://shop.adidas.jp/products/IZ4922/')
-    driver.get('https://shop.adidas.jp/item/?gender=mens&category=wear&order=1&limit=120&page=1')
+    driver.get('https://shop.adidas.jp/item/?gender=mens&category=wear&order=1&limit=120&page=2')
 
     def parse(self, response):
         driver.maximize_window()

@@ -1,0 +1,5963 @@
+
+{
+    "product_url": "https://shop.adidas.jp/products/JI7632/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "ランニング",
+        "ウェア・服",
+        "トップス",
+        "Tシャツ",
+        "WFL Event SS T M"
+    ],
+    "category": "メンズ ランニング",
+    "product name": "WFL EVENT SS T M",
+    "product price": "4,950",
+    "available sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": null,
+    "co-ordinated products": null,
+    "description title": "WFL EVENT SS T M",
+    "general description": null,
+    "general description itemized": [
+        "ポリエステル100%",
+        "商品番号：JI7632",
+        "色：スパーク",
+        "生産国：Indonesia"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "表示サイズ",
+            "胸囲",
+            "ウェスト",
+            "ヒップ",
+            "股下"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                "J/XXS",
+                "J/XS",
+                "J/S",
+                "J/M",
+                "J/L",
+                "J/XL",
+                "J/2XL",
+                "J/3XL"
+            ],
+            [
+                "77～80",
+                "81～84",
+                "85～88",
+                "89～92",
+                "93～96",
+                "97～100",
+                "101～106",
+                "107～112"
+            ],
+            [
+                "63～66",
+                "67～70",
+                "71～74",
+                "75～78",
+                "79～82",
+                "83～86",
+                "87～93",
+                "94～100"
+            ],
+            [
+                "76～79",
+                "80～83",
+                "84～87",
+                "88～91",
+                "92～95",
+                "96～99",
+                "100～105",
+                "106～111"
+            ],
+            [
+                "77",
+                "77.8",
+                "78",
+                "78.3",
+                "78.3",
+                "78.5",
+                "78.8",
+                "78.8"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "Tシャツ",
+        "ランニング",
+        "半袖",
+        "リサイクル素材一部使用",
+        "ランニングウェア・服",
+        "KPN23"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IS3807/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "ジム・トレーニング",
+        "ウェア・服",
+        "トップス",
+        "Tシャツ",
+        "パワー ワークアウト 半袖Tシャツ"
+    ],
+    "category": "メンズ ジム・トレーニング",
+    "product name": "パワー ワークアウト 半袖Tシャツ",
+    "product price": "6,050",
+    "available sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IS/IS3807/z-IS3807-on_model-standard_view-z7NswIYLpH.jpg",
+        "https://shop.adidas.jp/photo/IS/IS3807/z-IS3807-marketing-heromrktng_view_2-BQUsK8WI62.jpg",
+        "https://shop.adidas.jp/photo/IS/IS3807/z-IS3807-marketing-heromrktng_view_3-neX6pOhHoR.jpg",
+        "https://shop.adidas.jp/photo/IS/IS3807/z-IS3807-marketing-heromrktng_view_4-J6RW5DrwTK.jpg",
+        "https://shop.adidas.jp/photo/IS/IS3807/z-IS3807-on_model-back_view-l7LLph40zg.jpg",
+        "https://shop.adidas.jp/photo/IS/IS3807/z-IS3807-on_model-walking_view-RheiFU2bS5.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/photo/IS/IS3807/z-IS3807-on_model-detail_view_1-w8n2bKvwYm.jpg",
+        "https://shop.adidas.jp/photo/IS/IS3807/z-IS3807-on_model-detail_view_2-YnAh8wbKOU.jpg"
+    ],
+    "co-ordinated products": [
+        {
+            "product name": "DESIGNED FOR TRAINING ワークアウトショーツ",
+            "product price": "4,950",
+            "product number": "IS3833",
+            "product image": "https://shop.adidas.jp/photo/IS/IS3833/s-IS3833-on_model-standard_view-t17FyTZvhE.jpg",
+            "product url": "https://shop.adidas.jp/products/IS3833"
+        }
+    ],
+    "description title": "パワー ワークアウト 半袖Tシャツ",
+    "general description": "このアディダスのトレーニングTシャツを着て、停滞期を乗り越えよう。パワーと持久力のためのワークアウトを行うとき、ピークパフォーマンス時もAEROREADY素材が汗を素早く吸収してドライなコンディションを維持する。ウエイトルームで映えるサンドストーンプリントがスタイリッシュなアクセント。\n\nこの製品には、リサイクル素材を70%以上使用。製造された製品の素材をリユースすることで、ゴミの量、限りある資源への依存、そしてアディダス製品のフットプリントを減らすことにつながる。",
+    "general description itemized": [
+        "スリムフィット",
+        "クルーネック",
+        "ポリエステル81% / 再生繊維（リヨセル）14% / ポリウレタン5%（シングルジャージー）",
+        "AEROREADY",
+        "サイドの裾に切り込み",
+        "後ろの裾はやや長め",
+        "総柄プリント",
+        "透湿性に優れた素材",
+        "商品番号：IS3807",
+        "色：ホワイト/ブラック"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            [
+                "88cm",
+                "91cm",
+                "96cm",
+                "98cm",
+                "103cm",
+                "109cm",
+                "116cm"
+            ],
+            [
+                "66cm",
+                "67cm",
+                "68cm",
+                "68cm",
+                "69cm",
+                "71cm",
+                "72cm"
+            ],
+            [
+                "22cm",
+                "22cm",
+                "22cm",
+                "23cm",
+                "23cm",
+                "25cm",
+                "26cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "Tシャツ",
+        "ジム・トレーニング",
+        "半袖",
+        "エアロレディ",
+        "リサイクル素材一部使用",
+        "ジム・トレーニングウェア・服",
+        "IEJ12"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IW0243/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "ラグビー",
+        "ウェア・服",
+        "ボトムス",
+        "ハーフパンツ",
+        "Z.N.E.",
+        "オールブラックス Z.N.E. ウーブンショーツ"
+    ],
+    "category": "メンズ ラグビー",
+    "product name": "オールブラックス Z.N.E. ウーブンショーツ",
+    "product price": "8,800",
+    "available sizes": [
+        "XS",
+        "M",
+        "XL",
+        "2XL"
+    ],
+    "sense": null,
+    "product images": [
+        "https://shop.adidas.jp/photo/IW/IW0243/z-IW0243-on_model-standard_view-nWfubO0TLa.jpg",
+        "https://shop.adidas.jp/photo/IW/IW0243/z-IW0243-on_model-back_view-M06xb5hxJZ.jpg",
+        "https://shop.adidas.jp/photo/IW/IW0243/z-IW0243-on_model-walking_view-CVwGbweN2k.jpg",
+        "https://shop.adidas.jp/photo/IW/IW0243/z-IW0243-3d_torso-front_center_view-9t5CrJfI0O.jpg",
+        "https://shop.adidas.jp/photo/IW/IW0243/z-IW0243-on_model-detail_view_1-D73a9vXoaI.jpg",
+        "https://shop.adidas.jp/photo/IW/IW0243/z-IW0243-on_model-detail_view_2-N581AYSlNM.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "オールブラックス Z.N.E. ウーブンショーツ",
+    "general description": "オールブラックスのサポーターならば、どこにいてもこのショーツをはいて応援し続けよう。人気の adidas Z.N.E. シリーズのアイテム。伸縮性に優れたウーブンファブリックと吸湿性に優れたAEROREADYを採用したルーズフィットの作りが、激しい身体の動きにも対応する安定感のある着心地をもたらす。ラグビーファンであることを表現できるチームロゴを片脚に配している。\n\nリサイクル素材を選択することで、既に製造された製品の素材を再利用することができ、それがゴミの削減につながる。また、再生可能素材を選択することでも、限りある資源への依存を減らすことができる。このアディダス製品は、リサイクル素材や再生可能素材をブレンドしたものを70%以上使用している。",
+    "general description itemized": [
+        "ルーズフィット",
+        "ドローコード付きの伸縮性ウエスト",
+        "ポリエステル100％（ダブルウィーブ）",
+        "裏地付き",
+        "AEROREADY",
+        "オールブラックスのエンブレム",
+        "リサイクル・再生可能素材を70%以上使用",
+        "商品番号：IW0243",
+        "色：オールブラック"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "ウエスト",
+            "股下",
+            "股上",
+            "ヒップ",
+            "裾回り"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "M",
+                "XL",
+                "2XL"
+            ],
+            [
+                "70cm",
+                "76cm",
+                "83cm",
+                "90cm"
+            ],
+            [
+                "16cm",
+                "16cm",
+                "16cm",
+                "16cm"
+            ],
+            [
+                "31cm",
+                "32cm",
+                "33cm",
+                "35cm"
+            ],
+            [
+                "101cm",
+                "107cm",
+                "115cm",
+                "123cm"
+            ],
+            [
+                "63cm",
+                "66cm",
+                "70cm",
+                "75cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "ボトムス",
+        "ハーフパンツ",
+        "ラグビー",
+        "Z.N.E.",
+        "オールブラックス",
+        "エアロレディ",
+        "リサイクル素材と再生可能素材",
+        "ラグビーウェア・服",
+        "JOJ39"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IP0277/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "ウェア・服",
+        "アウター",
+        "ベスト",
+        "オリジナルス",
+        "グラフィック カモ柄リバーシブルフリースベスト"
+    ],
+    "category": "メンズ オリジナルス",
+    "product name": "グラフィック カモ柄リバーシブルフリースベスト",
+    "product price": "10,560",
+    "available sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IP/IP0277/z-IP0277-on_model-standard_view-Dwg38noUOg.jpg",
+        "https://shop.adidas.jp/photo/IP/IP0277/z-IP0277-on_model-back_view-nFauKS83PB.jpg",
+        "https://shop.adidas.jp/photo/IP/IP0277/z-IP0277-on_model-walking_view-LR5NzmYyLd.jpg",
+        "https://shop.adidas.jp/photo/IP/IP0277/z-IP0277-on_model-standard_front_inside_view-CTU4rER9s7.jpg",
+        "https://shop.adidas.jp/photo/IP/IP0277/z-IP0277-3d_torso-front_center_view-uAVd49ANgU.jpg",
+        "https://shop.adidas.jp/photo/IP/IP0277/z-IP0277-on_model-detail_view_1-s7q5HxXOy9.jpg",
+        "https://shop.adidas.jp/photo/IP/IP0277/z-IP0277-on_model-detail_view_2-jBaHAVxKTi.jpg"
+    ],
+    "co-ordinated products": [
+        {
+            "product name": "アディダス アドベンチャー カーゴパンツ（ジェンダーニュートラル）",
+            "product price": "6,160",
+            "product number": "IL5177",
+            "product image": "https://shop.adidas.jp/photo/IL/IL5177/s-IL5177-on_model-standard_view-WKMCqdNf7g.jpg",
+            "product url": "https://shop.adidas.jp/products/IL5177"
+        },
+        {
+            "product name": "アディダス アドベンチャー カーゴパンツ（ジェンダーニュートラル）",
+            "product price": "6,160",
+            "product number": "IL5177",
+            "product image": "https://shop.adidas.jp/photo/IM/IM4540/s-IM4540-on_model-standard_view-gn6UCkpnKZ.jpg",
+            "product url": "https://shop.adidas.jp/products/IL5177"
+        }
+    ],
+    "description title": "グラフィック カモ柄リバーシブルフリースベスト",
+    "general description": "このリバーシブルベストを着て、人混みの中でもひときわ目立つ存在になろう。一枚のカジュアルウェアで、二つのオプションが手に入る、ユニークなピース。片面は、アウトドアな雰囲気を放つカモフラージュ柄プリント。もう一方は、控えめな着こなしが楽しめる、同系色でまとめたスタイリッシュなデザイン。ソフトで肌触りの良いフリース素材で作られたこのベストは、長袖Tシャツやパーカーの上に重ね着するのにぴったり。\n\nリサイクル素材と再生可能素材をブレンドした生地を70%以上使用したウェア。",
+    "general description itemized": [
+        "リラックスフィット",
+        "フルジップ / スタンドカラー",
+        "ポリエステル100%（フリース［裏起毛］）",
+        "胸にジップポケット",
+        "フロントジップポケット",
+        "商品番号：IP0277",
+        "色：シャドーグリーン",
+        "生産国：Vietnam"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "表示サイズ",
+            "胸囲",
+            "ウェスト",
+            "ヒップ",
+            "股下"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                "J/XXS",
+                "J/XS",
+                "J/S",
+                "J/M",
+                "J/L",
+                "J/XL",
+                "J/2XL",
+                "J/3XL"
+            ],
+            [
+                "77～80",
+                "81～84",
+                "85～88",
+                "89～92",
+                "93～96",
+                "97～100",
+                "101～106",
+                "107～112"
+            ],
+            [
+                "63～66",
+                "67～70",
+                "71～74",
+                "75～78",
+                "79～82",
+                "83～86",
+                "87～93",
+                "94～100"
+            ],
+            [
+                "76～79",
+                "80～83",
+                "84～87",
+                "88～91",
+                "92～95",
+                "96～99",
+                "100～105",
+                "106～111"
+            ],
+            [
+                "77",
+                "77.8",
+                "78",
+                "78.3",
+                "78.3",
+                "78.5",
+                "78.8",
+                "78.8"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "アウター",
+        "ベスト",
+        "オリジナルス",
+        "リサイクル素材と再生可能素材",
+        "EED31"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IN6560/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "ゴルフ",
+        "ウェア・服",
+        "ボトムス",
+        "パンツ",
+        "4wayストレッチナイロン ライトウェイトアンクル"
+    ],
+    "category": "メンズ ゴルフ",
+    "product name": "4WAYストレッチナイロン ライトウェイトアンクル",
+    "product price": "13,970",
+    "available sizes": [
+        "73",
+        "76",
+        "79",
+        "82",
+        "85",
+        "88",
+        "92",
+        "96",
+        "100"
+    ],
+    "sense": null,
+    "product images": [
+        "https://shop.adidas.jp/photo/IN/IN6560/z-IN6560-on_model-standard_view-j4MjBPXA5o.jpg",
+        "https://shop.adidas.jp/photo/IN/IN6560/z-IN6560-on_model-back_view-ukmHgNzYCS.jpg",
+        "https://shop.adidas.jp/photo/IN/IN6560/z-IN6560-on_model-walking_view-jnYvLv0GXq.jpg",
+        "https://shop.adidas.jp/photo/IN/IN6560/z-IN6560-3d_torso-front_center_view-Is5ETMClEL.jpg",
+        "https://shop.adidas.jp/photo/IN/IN6560/z-IN6560-on_model-detail_view_1-kuGAbRaeLe.jpg",
+        "https://shop.adidas.jp/photo/IN/IN6560/z-IN6560-on_model-detail_view_2-yoPnh9voBb.jpg"
+    ],
+    "co-ordinated products": [
+        {
+            "product name": "パンチング 無段階調節ベルト",
+            "product price": "8,690",
+            "product number": "HA5950",
+            "product image": "https://shop.adidas.jp/photo/HA/HA5950/s-HA5950-standard-front_view.jpg",
+            "product url": "https://shop.adidas.jp/products/HA5950"
+        },
+        {
+            "product name": "パンチング 無段階調節ベルト",
+            "product price": "8,690",
+            "product number": "HA5950",
+            "product image": "https://shop.adidas.jp/photo/IF/IF0300/s-IF0300-standard-side_lateral_view-k2Im43NaQa.jpg",
+            "product url": "https://shop.adidas.jp/products/HA5950"
+        },
+        {
+            "product name": "S2G SL レザー 24",
+            "product price": "9,900",
+            "product number": "IF0300",
+            "product image": "https://shop.adidas.jp/photo/IN/IN9313/s-IN9313-on_model-standard_view-LaK2jyCGOC.jpg",
+            "product url": "https://shop.adidas.jp/products/IF0300"
+        }
+    ],
+    "description title": "4WAYストレッチナイロン ライトウェイトアンクル",
+    "general description": "きれいめなテーパードパンツをプラスして、ゴルフスタイルに磨きをかけよう。適度にストレッチの効いた動きやすい作り。アンクル丈の裾でモダンに仕上げている。\n\nこの製品はリサイクル素材を70%使用。製造された製品の素材をリユースすることで、ゴミの量、限りある資源への依存、そしてアディダス製品のフットプリントを減らすことにつながる。",
+    "general description itemized": [
+        "レギュラーフィット",
+        "ベルト通し",
+        "ナイロン76% / ポリウレタン24%（ツイル）",
+        "前後にポケット",
+        "アンクルジップ",
+        "テープ仕上げの裾",
+        "ストレッチの効いた生地",
+        "商品番号：IN6560",
+        "色：ホワイト",
+        "生産国：Cambodia"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": null,
+        "rowDetail": null
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "ボトムス",
+        "パンツ",
+        "ゴルフ",
+        "ゴルフウェア・服",
+        "IKJ50"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IN6561/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "ゴルフ",
+        "ウェア・服",
+        "ボトムス",
+        "パンツ",
+        "4wayストレッチナイロン ライトウェイトアンクル"
+    ],
+    "category": "メンズ ゴルフ",
+    "product name": "4WAYストレッチナイロン ライトウェイトアンクル",
+    "product price": "13,970",
+    "available sizes": [
+        "73",
+        "76",
+        "79",
+        "82",
+        "85",
+        "88",
+        "92",
+        "96",
+        "100"
+    ],
+    "sense": null,
+    "product images": [
+        "https://shop.adidas.jp/photo/IN/IN6561/z-IN6561-on_model-standard_view-hAkRWQ2mhC.jpg",
+        "https://shop.adidas.jp/photo/IN/IN6561/z-IN6561-on_model-back_view-R5pp1nBsCN.jpg",
+        "https://shop.adidas.jp/photo/IN/IN6561/z-IN6561-on_model-walking_view-sQtV5Nhsnf.jpg",
+        "https://shop.adidas.jp/photo/IN/IN6561/z-IN6561-3d_torso-front_center_view-nRPtTnZuCW.jpg",
+        "https://shop.adidas.jp/photo/IN/IN6561/z-IN6561-on_model-detail_view_1-9tAJpji46V.jpg",
+        "https://shop.adidas.jp/photo/IN/IN6561/z-IN6561-on_model-detail_view_2-BLkS29Cp71.jpg"
+    ],
+    "co-ordinated products": [
+        {
+            "product name": "レトロクロス",
+            "product price": "9,990",
+            "product number": "GV6911",
+            "product image": "https://shop.adidas.jp/photo/GV/GV6911/s-GV6911-standard-side_lateral_view-UJx3zbaMPF.jpg",
+            "product url": "https://shop.adidas.jp/products/GV6911"
+        },
+        {
+            "product name": "レトロクロス",
+            "product price": "9,990",
+            "product number": "GV6911",
+            "product image": "https://shop.adidas.jp/photo/HS/HS5560/s-HS5560-standard-front_view-y3TuYvd6l3.jpg",
+            "product url": "https://shop.adidas.jp/products/GV6911"
+        },
+        {
+            "product name": "ノベルティープリント 半袖ストレッチシャツ",
+            "product price": "6,160",
+            "product number": "HZ0437",
+            "product image": "https://shop.adidas.jp/photo/HZ/HZ0437/s-HZ0437-on_model-standard_view-Z4dKJVh6lx.jpg",
+            "product url": "https://shop.adidas.jp/products/HZ0437"
+        }
+    ],
+    "description title": "4WAYストレッチナイロン ライトウェイトアンクル",
+    "general description": "きれいめなテーパードパンツをプラスして、ゴルフスタイルに磨きをかけよう。適度にストレッチの効いた動きやすい作り。アンクル丈の裾でモダンに仕上げている。\n\nこの製品はリサイクル素材を70%使用。製造された製品の素材をリユースすることで、ゴミの量、限りある資源への依存、そしてアディダス製品のフットプリントを減らすことにつながる。",
+    "general description itemized": [
+        "レギュラーフィット",
+        "ベルト通し",
+        "ナイロン76% / ポリウレタン24%（ツイル）",
+        "前後にポケット",
+        "アンクルジップ",
+        "テープ仕上げの裾",
+        "ストレッチの効いた生地",
+        "商品番号：IN6561",
+        "色：ブラック",
+        "生産国：Cambodia"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": null,
+        "rowDetail": null
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "ボトムス",
+        "パンツ",
+        "ゴルフ",
+        "ゴルフウェア・服",
+        "IKJ50"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IN6562/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "ゴルフ",
+        "ウェア・服",
+        "ボトムス",
+        "パンツ",
+        "4wayストレッチナイロン ライトウェイトアンクル"
+    ],
+    "category": "メンズ ゴルフ",
+    "product name": "4WAYストレッチナイロン ライトウェイトアンクル",
+    "product price": "13,970",
+    "available sizes": [
+        "73",
+        "76",
+        "79",
+        "82",
+        "85",
+        "88",
+        "92",
+        "96",
+        "100"
+    ],
+    "sense": null,
+    "product images": [
+        "https://shop.adidas.jp/photo/IN/IN6562/z-IN6562-on_model-standard_view-Z8rT6Mw2SL.jpg",
+        "https://shop.adidas.jp/photo/IN/IN6562/z-IN6562-on_model-back_view-VluTSI5r3z.jpg",
+        "https://shop.adidas.jp/photo/IN/IN6562/z-IN6562-on_model-walking_view-22qTTbEwyl.jpg",
+        "https://shop.adidas.jp/photo/IN/IN6562/z-IN6562-3d_torso-front_center_view-qYP0zuF5YN.jpg",
+        "https://shop.adidas.jp/photo/IN/IN6562/z-IN6562-on_model-detail_view_1-tXFT8m7gEK.jpg",
+        "https://shop.adidas.jp/photo/IN/IN6562/z-IN6562-on_model-detail_view_2-DScXqwEnsM.jpg"
+    ],
+    "co-ordinated products": [
+        {
+            "product name": "ブレード ストレッチベルト",
+            "product price": "4,950",
+            "product number": "HS5558",
+            "product image": "https://shop.adidas.jp/photo/HS/HS5558/s-HS5558-standard-front_view-rXYp40Er3v.jpg",
+            "product url": "https://shop.adidas.jp/products/HS5558"
+        },
+        {
+            "product name": "ソーラーモーション ボア 24",
+            "product price": "17,930",
+            "product number": "HS5558",
+            "product image": "https://shop.adidas.jp/photo/IF/IF0284/s-IF0284-standard-side_lateral_view-5OnRgP2oU8.jpg",
+            "product url": "https://shop.adidas.jp/products/HS5558"
+        },
+        {
+            "product name": "ソーラーモーション ボア 24",
+            "product price": "17,930",
+            "product number": "IF0284",
+            "product image": "https://shop.adidas.jp/photo/IN/IN2796/s-IN2796-on_model-standard_view-SLuDTy8sLc.jpg",
+            "product url": "https://shop.adidas.jp/products/IF0284"
+        }
+    ],
+    "description title": "4WAYストレッチナイロン ライトウェイトアンクル",
+    "general description": "きれいめなテーパードパンツをプラスして、ゴルフスタイルに磨きをかけよう。適度にストレッチの効いた動きやすい作り。アンクル丈の裾でモダンに仕上げている。\n\nこの製品はリサイクル素材を70%使用。製造された製品の素材をリユースすることで、ゴミの量、限りある資源への依存、そしてアディダス製品のフットプリントを減らすことにつながる。",
+    "general description itemized": [
+        "レギュラーフィット",
+        "ベルト通し",
+        "ナイロン76% / ポリウレタン24%（ツイル）",
+        "前後にポケット",
+        "アンクルジップ",
+        "テープ仕上げの裾",
+        "ストレッチの効いた生地",
+        "商品番号：IN6562",
+        "色：プリラブドインク",
+        "生産国：Cambodia"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": null,
+        "rowDetail": null
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "ボトムス",
+        "パンツ",
+        "ゴルフ",
+        "ゴルフウェア・服",
+        "IKJ50"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IR7920/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "ウェア・服",
+        "トップス",
+        "スウェット（トレーナー）",
+        "オリジナルス",
+        "TREFOIL ESSENTIALS",
+        "アディカラー コンテンポ クルーネック フレンチテリースウェット"
+    ],
+    "category": "メンズ オリジナルス",
+    "product name": "アディカラー コンテンポ クルーネック フレンチテリースウェット",
+    "product price": "8,360",
+    "available sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IR/IR7920/z-IR7920-on_model-standard_view-1861sgEBsL.jpg",
+        "https://shop.adidas.jp/photo/IR/IR7920/z-IR7920-on_model-back_view-XuHphvU2Wy.jpg",
+        "https://shop.adidas.jp/photo/IR/IR7920/z-IR7920-on_model-walking_view-QKQdrh5ro8.jpg",
+        "https://shop.adidas.jp/photo/IR/IR7920/z-IR7920-3d_torso-front_center_view-8ZdHJxTW0k.jpg",
+        "https://shop.adidas.jp/photo/IR/IR7920/z-IR7920-on_model-detail_view_1-hIveNUmo6j.jpg",
+        "https://shop.adidas.jp/photo/IR/IR7920/z-IR7920-on_model-detail_view_2-DeL1nsazX3.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "アディカラー コンテンポ クルーネック フレンチテリースウェット",
+    "general description": "気分もルックスもベストな状態で一日をスタートさせよう。肌寒い日には、ソフトなオーガニックコットン素材を用いてゆったりとした着心地に仕上げた、このスウェットの出番。着た瞬間から、一日が楽しみになりそうな一着。\n\n限りある資源に配慮し、プラスチック廃棄物の削減というアディダスの目標達成に向けて、天然素材と再生可能素材で作られたスウェットシャツ。",
+    "general description itemized": [
+        "ルーズフィット",
+        "リブ仕上げのクルーネック",
+        "オーガニックコットン100%（フレンチテリー［裏毛］）",
+        "重厚感のある風合い",
+        "リブ仕上げの袖口と裾",
+        "商品番号：IR7920",
+        "色：ワンダーベージュ/ワンダーベージュ",
+        "生産国：Indonesia"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "袖丈",
+            "袖口幅"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            [
+                "106cm",
+                "108cm",
+                "113cm",
+                "116cm",
+                "121cm",
+                "127cm",
+                "134cm"
+            ],
+            [
+                "64cm",
+                "65cm",
+                "66cm",
+                "66cm",
+                "67cm",
+                "69cm",
+                "70cm"
+            ],
+            [
+                "62cm",
+                "62cm",
+                "62cm",
+                "62cm",
+                "62cm",
+                "62cm",
+                "62cm"
+            ],
+            [
+                "21cm",
+                "21cm",
+                "22cm",
+                "22cm",
+                "22cm",
+                "22cm",
+                "23cm"
+            ]
+        ]
+    },
+    "overall rating": "4.7",
+    "overall review count": "6",
+    "overall review percentage": "100%",
+    "all reviews": [
+        {
+            "user": "bachanga50",
+            "date of review": "2024年1月15日",
+            "star": "4 / 5",
+            "review title": "GOOD！",
+            "review text": "身長176㎝体重70㎏\nゆったり着るのが好きなので２XL購入。\n生地がしっかりしていて丈夫そうです。\n手触りの感じも良く良い品物だと思います。"
+        },
+        {
+            "user": "pasuta",
+            "date of review": "2024年2月21日",
+            "star": "5 / 5",
+            "review title": "着心地いいです",
+            "review text": "裏毛ですが生地が厚くしっかりしており暖かいです。\n冬でも着れるいいスウェットだと思います。\n高級感があるので外着でも着れそうなのがよりグッド。"
+        },
+        {
+            "user": "jun10",
+            "date of review": "2023年10月31日",
+            "star": "5 / 5",
+            "review title": "生地がしっかりしていて、良い。",
+            "review text": "セールだったので、お得に購入できた。\n生地もしっかりしていて、ゆったりサイズ。\nシンプルなので、どんな服でも合わせやすい。\n購入して良かった！"
+        },
+        {
+            "user": "cookie316",
+            "date of review": "2023年1月21日",
+            "star": "5 / 5",
+            "review title": "ルーズ感がとても良いです",
+            "review text": "ルーズな感じで来た雰囲気もとても良く、色味も素材も良いので着心地もとても気に入ってます。ロゴもさり気ない感じがいいです"
+        },
+        {
+            "user": "suisui",
+            "date of review": "2023年4月26日",
+            "star": "5 / 5",
+            "review title": "シンプルだけどカッコ良いです",
+            "review text": "旦那へのプレゼントに購入しました。\nシンプルなトレーナーなのに上質なのでなんかカッコ良くキマってる風？\n本人は着心地も良いから気に入ってるそうです。"
+        },
+        {
+            "user": "Micchan",
+            "date of review": "2024年1月29日",
+            "star": "4 / 5",
+            "review title": "ゆったり着るならサイズアップで",
+            "review text": ""
+        }
+    ],
+    "overall fit sense": [
+        {
+            "label": "フィット感",
+            "value": "4 / 5"
+        },
+        {
+            "label": "丈感",
+            "value": "2.8 / 5"
+        },
+        {
+            "label": "品質",
+            "value": "4.5 / 5"
+        },
+        {
+            "label": "着心地",
+            "value": "4.3 / 5"
+        }
+    ],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "スウェット（トレーナー）",
+        "オリジナルス",
+        "TREFOIL ESSENTIALS",
+        "アディカラー",
+        "長袖",
+        "天然素材",
+        "NED64"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IC2165/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "ジム・トレーニング",
+        "ウェア・服",
+        "ボトムス",
+        "タイツ・レギンス",
+        "インナー",
+        "テックフィット トレーニング ロングタイツ"
+    ],
+    "category": "メンズ ジム・トレーニング",
+    "product name": "テックフィット トレーニング ロングタイツ",
+    "product price": "3,465",
+    "available sizes": [
+        "S",
+        "M",
+        "XL",
+        "2XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IC/IC2165/z-IC2165-on_model-standard_view-5ICIv1bRfi.jpg",
+        "https://shop.adidas.jp/photo/IC/IC2165/z-IC2165-on_model-back_view-tmBjg76rKz.jpg",
+        "https://shop.adidas.jp/photo/IC/IC2165/z-IC2165-on_model-walking_view-oCueOg4TEL.jpg",
+        "https://shop.adidas.jp/photo/IC/IC2165/z-IC2165-3d_torso-front_center_view-5c2ZUphmkT.jpg",
+        "https://shop.adidas.jp/photo/IC/IC2165/z-IC2165-on_model-detail_view_1-lMbGOKt4WN.jpg",
+        "https://shop.adidas.jp/photo/IC/IC2165/z-IC2165-on_model-detail_view_2-BFjpbMGcjp.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "テックフィット トレーニング ロングタイツ",
+    "general description": "心拍数を記録して、マクロダイエットを実施して、お気に入りのフィットネスブログもチェックする。それ以外のトレーニングルーティンも、このタイツをはいて順調にこなそう。汗を吸収して身体をドライに保つAEROREADY機能を採用した、ハードなトレーニング中もしっかりサポート力を発揮する着圧感のあるデザイン。ポーチは立体的な作りだから、着用感も快適。そして胴回りにぴったりフィットするよう、ウエストに伸縮性を持たせた計算された設計。",
+    "general description itemized": [
+        "タイトフィット",
+        "伸縮性ウエスト",
+        "リサイクルポリエステル83% / ポリウレタン17%（ダブルニット）",
+        "AEROREADY",
+        "筋力サポートに着目したテックフィット",
+        "3Dポーチ",
+        "商品番号：IC2165",
+        "色：シルバーペブル",
+        "生産国：Thailand"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "ウエスト",
+            "股下",
+            "股上",
+            "ヒップ",
+            "裾回り"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                "2XS",
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            [
+                "48cm",
+                "53cm",
+                "56cm",
+                "61cm",
+                "63cm",
+                "68cm",
+                "75cm",
+                "82cm"
+            ],
+            [
+                "61cm",
+                "61cm",
+                "61cm",
+                "62cm",
+                "62cm",
+                "62cm",
+                "62cm",
+                "62cm"
+            ],
+            [
+                "26cm",
+                "26cm",
+                "27cm",
+                "27cm",
+                "27cm",
+                "28cm",
+                "28cm",
+                "29cm"
+            ],
+            [
+                "60cm",
+                "65cm",
+                "67cm",
+                "72cm",
+                "75cm",
+                "80cm",
+                "86cm",
+                "93cm"
+            ],
+            [
+                "16cm",
+                "17cm",
+                "18cm",
+                "19cm",
+                "19cm",
+                "20cm",
+                "21cm",
+                "22cm"
+            ]
+        ]
+    },
+    "overall rating": "4.5",
+    "overall review count": "8",
+    "overall review percentage": "100%",
+    "all reviews": [
+        {
+            "user": "GON01",
+            "date of review": "2023年8月13日",
+            "star": "4 / 5",
+            "review title": "履きやすさ抜群",
+            "review text": "ジムやランニング時に最適です。丈夫で履きやすいです。少しサイズが大きかったのでワンサイズ小さめがおすすめです。"
+        },
+        {
+            "user": "takp",
+            "date of review": "2024年2月27日",
+            "star": "5 / 5",
+            "review title": "着用感はバツグン",
+            "review text": "着用感はバツグン。予想よりタイトだけど、伸縮性があるのでさほど問題はないと思う。\nブカブカよりは全然良い気がします。"
+        },
+        {
+            "user": "tkdona",
+            "date of review": "2024年2月4日",
+            "star": "4 / 5",
+            "review title": "適度なコンプレッションウェア",
+            "review text": "写真で見るよりネイビーの色味が強いです。ハーフパンツと合わせています。適度な締め付けで、運動をする時に最適です。"
+        },
+        {
+            "user": "YzYz",
+            "date of review": "2022年10月11日",
+            "star": "5 / 5",
+            "review title": "ヨガ用に購入しました。",
+            "review text": "フィット感も良くこれからの季節に活躍しそうです。\n色も想像していた通りの色味で満足です。\n次回のレッスンが楽しみです。"
+        },
+        {
+            "user": "storestaff159",
+            "date of review": "2023年6月21日",
+            "star": "4 / 5",
+            "review title": "【ストアスタッフレビュー】",
+            "review text": "着用サイズ：170㎝ Lサイズ着用 普段のサイズ：XL"
+        },
+        {
+            "user": "BS761",
+            "date of review": "2023年7月21日",
+            "star": "5 / 5",
+            "review title": "カッコいい一着",
+            "review text": "アディダスのコンプレッションレギンスは、他社に比べてどうかな？と考えていましたが、この一着は機能的にもデザイン的にも優れた一着です。\nシンプルなデザインにも惹かれて購入しました。"
+        },
+        {
+            "user": "egaoga3tu",
+            "date of review": "2022年12月31日",
+            "star": "5 / 5",
+            "review title": "高校生の息子に",
+            "review text": "冬場の部活時に着用。\n中学の頃はヒートテック的な物を履いていましたが、こちらの方が運動をする時にはいい様です。\n息子は細身なので、何を買ってもダボついてしまいがちでしたが、こちらは適度なフィット感があるので特にいいとのことでした。"
+        },
+        {
+            "user": "daisuke9",
+            "date of review": "2023年1月4日",
+            "star": "4 / 5",
+            "review title": "期待を裏切らない！",
+            "review text": "これまでにも幾つものテックフィットを身に着けてきましたが、今回も期待通りのフィット感で文句無しです。"
+        }
+    ],
+    "overall fit sense": [
+        {
+            "label": "フィット感",
+            "value": "2.8 / 5"
+        },
+        {
+            "label": "丈感",
+            "value": "3 / 5"
+        },
+        {
+            "label": "品質",
+            "value": "3.9 / 5"
+        },
+        {
+            "label": "着心地",
+            "value": "4 / 5"
+        }
+    ],
+    "keywords": [
+        "ウェア・服",
+        "ボトムス",
+        "タイツ・レギンス",
+        "ジム・トレーニング",
+        "インナー",
+        "エアロレディ",
+        "テックフィット",
+        "リサイクル素材一部使用",
+        "ジム・トレーニングウェア・服",
+        "QY567"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IR7890/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "ウェア・服",
+        "ボトムス",
+        "スウェット（トレーナー）",
+        "オリジナルス",
+        "TREFOIL ESSENTIALS",
+        "アディカラー コンテンポ フレンチテリー スウェットパンツ"
+    ],
+    "category": "メンズ オリジナルス",
+    "product name": "アディカラー コンテンポ フレンチテリー スウェットパンツ",
+    "product price": "8,360",
+    "available sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IR/IR7890/z-IR7890-on_model-standard_view-hOqOdm3Exk.jpg",
+        "https://shop.adidas.jp/photo/IR/IR7890/z-IR7890-on_model-back_view-4jDJiM4UXa.jpg",
+        "https://shop.adidas.jp/photo/IR/IR7890/z-IR7890-on_model-walking_view-B7bDi5jnPY.jpg",
+        "https://shop.adidas.jp/photo/IR/IR7890/z-IR7890-3d_torso-front_center_view-xTp1HADaDa.jpg",
+        "https://shop.adidas.jp/photo/IR/IR7890/z-IR7890-on_model-detail_view_1-29yW7LKJ1y.jpg",
+        "https://shop.adidas.jp/photo/IR/IR7890/z-IR7890-on_model-detail_view_2-0bK2ZxdRwO.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "アディカラー コンテンポ フレンチテリー スウェットパンツ",
+    "general description": "一日のうちで最優先するのは何？　快適さ。それなら、このスウェットパンツをはいて、心地よさを実感してみよう。厚手のオーガニックコットンは、すっきりとはきこなせる贅沢な風合いが魅力。さらに、着やすさを追求したカジュアルなカッティングになっている。これで、残りのミッションが楽になるはず。\n\n限りある資源を守り、プラスチック廃棄物を削減するというアディダスの取り組みの一環として、天然素材と再生可能素材で作られた、スウェットパンツ。",
+    "general description itemized": [
+        "レギュラーフィット",
+        "ドローコード付きの伸縮性ウエスト",
+        "オーガニックコットン100%（フレンチテリー［裏毛］）",
+        "重厚感のある風合い",
+        "両サイドにポケット",
+        "伸縮性のある裾",
+        "商品番号：IR7890",
+        "色：シャドーバイオレット",
+        "生産国：Indonesia"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "ウエスト",
+            "股下",
+            "股上",
+            "ヒップ",
+            "裾回り"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            [
+                "63cm",
+                "65cm",
+                "71cm",
+                "73cm",
+                "78cm",
+                "85cm",
+                "92cm"
+            ],
+            [
+                "70cm",
+                "70cm",
+                "70cm",
+                "70cm",
+                "70cm",
+                "70cm",
+                "70cm"
+            ],
+            [
+                "30cm",
+                "30cm",
+                "31cm",
+                "31cm",
+                "31cm",
+                "32cm",
+                "33cm"
+            ],
+            [
+                "99cm",
+                "101cm",
+                "106cm",
+                "109cm",
+                "114cm",
+                "120cm",
+                "127cm"
+            ],
+            [
+                "22cm",
+                "22cm",
+                "24cm",
+                "24cm",
+                "26cm",
+                "28cm",
+                "28cm"
+            ]
+        ]
+    },
+    "overall rating": "4.5",
+    "overall review count": "13",
+    "overall review percentage": "92%",
+    "all reviews": [
+        {
+            "user": "お宝ランナー",
+            "date of review": "2024年1月13日",
+            "star": "4 / 5",
+            "review title": "シャドウブラウンが欲しくて購入",
+            "review text": "色は満足。緩いレビューを参考に丈は同じなので１サイズダウンでMサイズ購入。しかし丈は５cmほど短い感じで靴下がくるぶしから見えた。少し残念。いつもはLで丈も調度でしたが。色品質は満足。"
+        },
+        {
+            "user": "maru2543",
+            "date of review": "2023年10月12日",
+            "star": "3 / 5",
+            "review title": "",
+            "review text": "もっとゆったり履けるかと思っていたが、思っていたよりはゆったりしていなかった。\n家でたまに見る白いホコリのようなゴミは付きやすいので、少し使い方が難しいと感じました。"
+        },
+        {
+            "user": "SESE",
+            "date of review": "2023年12月4日",
+            "star": "5 / 5",
+            "review title": "スエットパンツのサイズ感って難しい",
+            "review text": "着心地最高にいいです。大きめを購入したら部屋感がでました。外出用の一軍スエットなら、半サイズ大きいくらいがかっこよく着れるきがします。168cm 女子にはLサイズはlooseすぎました。Mがちょうどよかったかも。とは言え着用感はいいので、着用頻度はめちゃ高いです。。。"
+        },
+        {
+            "user": "mamama03",
+            "date of review": "2023年12月19日",
+            "star": "4 / 5",
+            "review title": "オーガニックコットンのスタンダード",
+            "review text": "オーガニックコットンのスタンダードなモデル。タイトなアスリート用ではなく、街でもウチでもラフにはけるゆったり感。これでスリーストライプだとデザイン的にもよいのだけれど。"
+        },
+        {
+            "user": "pasuta",
+            "date of review": "2024年2月14日",
+            "star": "5 / 5",
+            "review title": "デザインと着やすさがいい",
+            "review text": "部屋着にも外着にもなる着心地の良いスウェットです。\n派手すぎず主張控えめのトレファイルロゴもいいです。"
+        },
+        {
+            "user": "adida",
+            "date of review": "2024年2月6日",
+            "star": "4 / 5",
+            "review title": "色違いで購入",
+            "review text": "色違いで2着購入しました。\n生地がしっかりしていて、使い勝手がいいです。"
+        },
+        {
+            "user": "ppckazmax",
+            "date of review": "2024年1月25日",
+            "star": "4 / 5",
+            "review title": "まあまあ",
+            "review text": "気軽に着るにはもってこいのパンツ。\n丈は少し長い気もするがそこまで気にはならない。\n部屋着でも使える。"
+        },
+        {
+            "user": "mugimugi",
+            "date of review": "2023年12月28日",
+            "star": "5 / 5",
+            "review title": "デザイン、サイズ感、最高ー",
+            "review text": "ゆったり目のサイズですが、大きすぎず、とても着心地がいい。家の中でも、外でもこれ1着あれば十分で大満足です。"
+        },
+        {
+            "user": "naowat",
+            "date of review": "2023年11月19日",
+            "star": "5 / 5",
+            "review title": "思った通りのシルエット",
+            "review text": "モデルの写真を見て購入。\n履いてみると思った通りのシルエットで満足しています。部屋着でも街でも場所を選ばず着れるので重宝しています。"
+        },
+        {
+            "user": "kingyo",
+            "date of review": "2022年12月24日",
+            "star": "5 / 5",
+            "review title": "ちょいルーズ気味だけど",
+            "review text": "部屋着でもタウンユースでも快適に過ごせるスウェットパンツ。\nレギュラーフィットとあるけど、ちょいルーズ気味です。\nけど、それがかえっていい感じにかっこいいです。\n厚手なので、冬に重宝しそうです。"
+        }
+    ],
+    "overall fit sense": [
+        {
+            "label": "フィット感",
+            "value": "3.4 / 5"
+        },
+        {
+            "label": "丈感",
+            "value": "2.9 / 5"
+        },
+        {
+            "label": "品質",
+            "value": "4.3 / 5"
+        },
+        {
+            "label": "着心地",
+            "value": "4.3 / 5"
+        }
+    ],
+    "keywords": [
+        "ウェア・服",
+        "ボトムス",
+        "スウェット（トレーナー）",
+        "パンツ",
+        "オリジナルス",
+        "TREFOIL ESSENTIALS",
+        "アディカラー",
+        "天然素材",
+        "ZG782"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IQ0494/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "サッカー",
+        "ウェア・服",
+        "ボトムス",
+        "ショートパンツ・短パン",
+        "代表",
+        "イタリア代表 24 ホームショーツ"
+    ],
+    "category": "メンズ サッカー",
+    "product name": "イタリア代表 24 ホームショーツ",
+    "product price": "7,150",
+    "available sizes": [
+        "XS",
+        "M",
+        "XL",
+        "2XL",
+        "4XL",
+        "6XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IQ/IQ0494/z-IQ0494-on_model-standard_view-Hn4v3zI7kl.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ0494/z-IQ0494-on_model-back_view-YolRRlbQHi.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ0494/z-IQ0494-on_model-walking_view-jYKNDePdLD.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ0494/z-IQ0494-on_model-standard_outfit_view-NjeVuQiO9c.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ0494/z-IQ0494-3d_torso-front_center_view-aNpGLnhRF3.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ0494/z-IQ0494-on_model-detail_view_1-2Ax7G1jEqW.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ0494/z-IQ0494-on_model-detail_view_2-EtOzgTCPJP.jpg"
+    ],
+    "co-ordinated products": [
+        {
+            "product name": "イタリア代表 24 ホームユニフォーム",
+            "product price": "13,200",
+            "product number": "IN0657",
+            "product image": "https://shop.adidas.jp/photo/IN/IN0657/s-IN0657-on_model-standard_view-uMTciCV5x3.jpg",
+            "product url": "https://shop.adidas.jp/products/IN0657"
+        },
+        {
+            "product name": "イタリア代表 24 ホームユニフォーム",
+            "product price": "13,200",
+            "product number": "IN0657",
+            "product image": "https://shop.adidas.jp/photo/IQ/IQ2157/s-IQ2157-30-atl5BDD6QO.jpg",
+            "product url": "https://shop.adidas.jp/products/IN0657"
+        }
+    ],
+    "description title": "イタリア代表 24 ホームショーツ",
+    "general description": "イタリア代表を象徴するブルーを纏った、選手たちが着用するウェアを模したアディダスのサッカーショーツ。吸湿性に優れたAEROREADYテクノロジーと滑らかな生地を採用しているから、サポーターが声援を送る間も快適なはき心地が続く。代表のウーブンエンブレムなどのチームのディテールが、アズーリへの情熱を表現。\n\nこの製品にはリサイクル素材を100%使用。製造された製品の素材をリユースすることは、ゴミの量、限りある資源への依存、そしてアディダス製品のフットプリントを減らすことにつながる。",
+    "general description itemized": [
+        "レギュラーフィット",
+        "ドローコード付きの伸縮性ウエスト",
+        "ポリエステル100%（インターロック）",
+        "AEROREADY",
+        "サイドにメッシュインサート",
+        "イタリア代表のウーブンエンブレム",
+        "商品番号：IQ0494",
+        "色：ホワイト"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "ウエスト",
+            "股下",
+            "股上",
+            "ヒップ",
+            "裾回り"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "M",
+                "XL",
+                "2XL"
+            ],
+            [
+                "57cm",
+                "63cm",
+                "70cm",
+                "77cm"
+            ],
+            [
+                "19cm",
+                "19cm",
+                "19cm",
+                "19cm"
+            ],
+            [
+                "28cm",
+                "29cm",
+                "30cm",
+                "31cm"
+            ],
+            [
+                "96cm",
+                "102cm",
+                "110cm",
+                "118cm"
+            ],
+            [
+                "56cm",
+                "59cm",
+                "62cm",
+                "67cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "ボトムス",
+        "ショートパンツ・短パン",
+        "サッカー",
+        "フットサル",
+        "代表",
+        "イタリア代表",
+        "エアロレディ",
+        "リサイクル素材一部使用",
+        "サッカーウェア・服",
+        "フットサルウェア・服",
+        "GZK59"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IQ2163/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "サッカー",
+        "ウェア・服",
+        "ボトムス",
+        "ジャージ",
+        "代表",
+        "イタリア ティロ 24 コンペティション トレーニングパンツ"
+    ],
+    "category": "メンズ サッカー",
+    "product name": "イタリア ティロ 24 コンペティション トレーニングパンツ",
+    "product price": "9,350",
+    "available sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IQ/IQ2163/z-IQ2163-on_model-standard_view-c5mhJ0hTpO.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ2163/z-IQ2163-on_model-back_view-woM1qULIIv.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ2163/z-IQ2163-on_model-walking_view-LHpKLvn0N6.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ2163/z-IQ2163-on_model-standard_outfit_view-dy1K2NZN0J.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ2163/z-IQ2163-3d_torso-front_center_view-angq3GfzSt.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ2163/z-IQ2163-on_model-detail_view_1-lzADnLLulv.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "イタリア ティロ 24 コンペティション トレーニングパンツ",
+    "general description": "このイタリア代表パンツをはいて、サッカーのトレーニングをスムーズに進めよう。これは、スキルを磨くトッププレーヤーたちのために作られた、ハードなドリルの間も柔軟性と快適さを提供するモデル。貴重品をしっかりしまえるジップポケット付きの優れた吸湿性を発揮するAEROREADYシリーズだから、時間をロスすることなく、ペースを上げてトレーニングに打ち込める。\n\nこの製品は100%リサイクル素材で作られている。製造された製品の素材をリユースすることで、ゴミの量、限りある資源への依存、そしてアディダス製品のフットプリントを減らすことにつながる。",
+    "general description itemized": [
+        "スリムフィット",
+        "ドローコード付きの伸縮性ウエスト",
+        "ポリエステル100%（インターロック）",
+        "AEROREADY",
+        "フロントにジップポケット",
+        "脚の後ろ側にメッシュインサート",
+        "アンクルジップ",
+        "サッカーイタリア代表エンブレムを熱転写",
+        "商品番号：IQ2163",
+        "色：ナイトスカイ",
+        "生産国：Cambodia"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "ウエスト",
+            "股下",
+            "股上",
+            "ヒップ",
+            "裾回り"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            [
+                "64cm",
+                "69cm",
+                "71cm",
+                "76cm",
+                "83cm",
+                "90cm"
+            ],
+            [
+                "67cm",
+                "67cm",
+                "67cm",
+                "67cm",
+                "67cm",
+                "67cm"
+            ],
+            [
+                "29cm",
+                "29cm",
+                "29cm",
+                "30cm",
+                "30cm",
+                "31cm"
+            ],
+            [
+                "88cm",
+                "93cm",
+                "95cm",
+                "100cm",
+                "106cm",
+                "113cm"
+            ],
+            [
+                "21cm",
+                "22cm",
+                "22cm",
+                "23cm",
+                "24cm",
+                "25cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "ボトムス",
+        "ジャージ",
+        "パンツ",
+        "サッカー",
+        "フットサル",
+        "代表",
+        "ティロ",
+        "イタリア代表",
+        "エアロレディ",
+        "リサイクル素材一部使用",
+        "サッカーウェア・服",
+        "フットサルウェア・服",
+        "GZK80"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IQ2174/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "ユニセックス",
+        "サッカー",
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "代表",
+        "イタリア代表 ティロ 24 コンペティショントレーニングジャージー"
+    ],
+    "category": "サッカー",
+    "product name": "イタリア代表 ティロ 24 コンペティショントレーニングジャージー",
+    "product price": "6,600",
+    "available sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IQ/IQ2174/z-IQ2174-on_model-standard_view-05vyY09U14.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ2174/z-IQ2174-on_model-back_view-gVUnlTd7Mr.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ2174/z-IQ2174-on_model-walking_view-VAQaaLTeCq.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ2174/z-IQ2174-on_model-standard_outfit_view-D8OHvVDQxX.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ2174/z-IQ2174-3d_torso-front_center_view-zQ5W0uPYcS.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ2174/z-IQ2174-3d_torso-back_center_view-77m6Jazp8i.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ2174/z-IQ2174-on_model-detail_view_1-1OtECFQf9U.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ2174/z-IQ2174-on_model-detail_view_2-dSIjBAxMLb.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "イタリア代表 ティロ 24 コンペティショントレーニングジャージー",
+    "general description": "このアディダスのイタリア代表トレーニングジャージーを着て、スキルアップを目指そう。汗をコントロールするAEROREADY、無駄のないシルエットと伸縮性のあるインターロックファブリックを採用した、ハードなサッカーの練習用に作られた一枚。胸に熱転写したチームエンブレムは、美しき試合を繰り広げる代表チームの勝利を願うファンの気持ちも示す。\n\nこの製品にはリサイクル素材を100%使用。製造された製品の素材をリユースすることは、ゴミの量、限りある資源への依存、そしてアディダス製品のフットプリントを減らすことにつながる。",
+    "general description itemized": [
+        "スリムフィット",
+        "リブ仕上げのクルーネック",
+        "ポリエステル100%（インターロック）",
+        "AEROREADY",
+        "サイドにメッシュインサート",
+        "イタリア代表エンブレムを熱転写",
+        "商品番号：IQ2174",
+        "色：ナイトスカイ",
+        "生産国：Vietnam"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "ウエスト",
+            "ラグラン袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            [
+                "93cm",
+                "98cm",
+                "100cm",
+                "105cm",
+                "111cm",
+                "118cm"
+            ],
+            [
+                "72cm",
+                "73cm",
+                "73cm",
+                "74cm",
+                "76cm",
+                "77cm"
+            ],
+            [
+                "89cm",
+                "94cm",
+                "96cm",
+                "101cm",
+                "108cm",
+                "115cm"
+            ],
+            [
+                "36cm",
+                "37cm",
+                "37cm",
+                "38cm",
+                "40cm",
+                "42cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "サッカー",
+        "フットサル",
+        "代表",
+        "ティロ",
+        "半袖",
+        "イタリア代表",
+        "リサイクル素材一部使用",
+        "サッカーウェア・服",
+        "フットサルウェア・服",
+        "GZK89"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IP8139/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "ユニセックス",
+        "サッカー",
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "代表",
+        "ドイツ代表 24 ホームユニフォーム"
+    ],
+    "category": "サッカー",
+    "product name": "ドイツ代表 24 ホームユニフォーム",
+    "product price": "13,200",
+    "available sizes": [
+        "XS",
+        "M",
+        "XL",
+        "2XL",
+        "4XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IP/IP8139/z-IP8139-on_model-standard_view-bNCN7MWhMS.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8139/z-IP8139-on_model-back_view-JVRuDYzCvc.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8139/z-IP8139-on_model-walking_view-C8rLrJizUA.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8139/z-IP8139-3d_torso-front_center_view-xli6SP8BUZ.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8139/z-IP8139-3d_torso-back_center_view-KOkBrfOOd1.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8139/z-IP8139-on_model-detail_view_1-1E8HKeevIJ.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "ドイツ代表 24 ホームユニフォーム",
+    "general description": "ドイツサッカーのスピリットをカタチにした、4度の世界チャンピオンのシンボルをすべて詰め込んだ、ドイツ代表ホームユニフォーム。肩に鷲の羽根をイメージした装飾を、フロントには全体を埋め尽くすDFBロゴからとったエンボス加工のディテールをそれぞれあしらったデザイン。快適な着心地とサポート感を提供する、優れた吸湿性を発揮するAEROREADYテクノロジーと、ウーブンエンブレムをフィーチャーしている。\n\nこの製品は100%リサイクル素材で作られている。製造された製品の素材をリユースすることで、ゴミの量、限りある資源への依存、そしてアディダス製品のフットプリントを減らすことにつながる。",
+    "general description itemized": [
+        "スリムフィット",
+        "リブ仕上げのクルーネック",
+        "ポリエステル100%（インターロック）",
+        "AEROREADY",
+        "脇の下、サイド、背面下部にメッシュパネル",
+        "ドイツ代表のウーブンエンブレム",
+        "後ろ襟の下に\"Deutschland\"の文字",
+        "商品番号：IP8139",
+        "色：ホワイト"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "ラグラン袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "M",
+                "XL",
+                "2XL"
+            ],
+            [
+                "91cm",
+                "97cm",
+                "105cm",
+                "113cm"
+            ],
+            [
+                "69cm",
+                "71cm",
+                "73cm",
+                "75cm"
+            ],
+            [
+                "35cm",
+                "37cm",
+                "38cm",
+                "39cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "サッカー",
+        "フットサル",
+        "代表",
+        "半袖",
+        "ドイツ代表",
+        "エアロレディ",
+        "ケージ",
+        "リサイクル素材一部使用",
+        "サッカーウェア・服",
+        "フットサルウェア・服",
+        "GZM95"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IP8151/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "サッカー",
+        "ウェア・服",
+        "ボトムス",
+        "ショートパンツ・短パン",
+        "代表",
+        "ドイツ代表 24 ホームショーツ"
+    ],
+    "category": "メンズ サッカー",
+    "product name": "ドイツ代表 24 ホームショーツ",
+    "product price": "7,150",
+    "available sizes": [
+        "XS",
+        "M",
+        "XL",
+        "2XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IP/IP8151/z-IP8151-on_model-standard_view-D3UVLmDh32.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8151/z-IP8151-on_model-back_view-6JbqvsuDKI.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8151/z-IP8151-on_model-walking_view-DUq3yJEhPS.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8151/z-IP8151-on_model-standard_outfit_view-I4VH2aUyWL.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8151/z-IP8151-3d_torso-front_center_view-zqWmEhC79q.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8151/z-IP8151-on_model-detail_view_1-nLbYhn7LoX.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8151/z-IP8151-on_model-detail_view_2-I6J8jMqfqm.jpg"
+    ],
+    "co-ordinated products": [
+        {
+            "product name": "ドイツ代表 24 ホームユニフォーム",
+            "product price": "13,200",
+            "product number": "IP8139",
+            "product image": "https://shop.adidas.jp/photo/IP/IP8139/s-IP8139-on_model-standard_view-bNCN7MWhMS.jpg",
+            "product url": "https://shop.adidas.jp/products/IP8139"
+        },
+        {
+            "product name": "ドイツ代表 24 ホームソックス",
+            "product price": "2,970",
+            "product number": "IP8164",
+            "product image": "https://shop.adidas.jp/photo/IP/IP8164/s-IP8164-30-DLOf5aIAmO.jpg",
+            "product url": "https://shop.adidas.jp/products/IP8164"
+        }
+    ],
+    "description title": "ドイツ代表 24 ホームショーツ",
+    "general description": "お気に入りのチームを誇りを持って応援しよう。このサッカーショーツは、ドイツを象徴するものをひとまとめにしたホームキットの一部。国旗カラーでまとめて、サイドに鷲の羽根のデザインが人目を引くグラフィックをあしらっている。サポーターが声援を送る間も、吸湿性に優れたAEROREADY素材が快適なはき心地をもたらす。\n\nこの製品にはリサイクル素材を100%使用。製造された製品の素材をリユースすることは、ゴミの量、限りある資源への依存、そしてアディダス製品のフットプリントを減らすことにつながる。",
+    "general description itemized": [
+        "レギュラーフィット",
+        "ドローコード付きの伸縮性ウエスト",
+        "ポリエステル100%（インターロック）",
+        "AEROREADY",
+        "サイドにメッシュインサート",
+        "ドイツ代表のウーブンエンブレム",
+        "商品番号：IP8151",
+        "色：ホワイト"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "ウエスト",
+            "股下",
+            "股上",
+            "ヒップ",
+            "裾回り"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "M",
+                "XL",
+                "2XL"
+            ],
+            [
+                "57cm",
+                "63cm",
+                "70cm",
+                "77cm"
+            ],
+            [
+                "19cm",
+                "19cm",
+                "19cm",
+                "19cm"
+            ],
+            [
+                "28cm",
+                "29cm",
+                "30cm",
+                "31cm"
+            ],
+            [
+                "96cm",
+                "102cm",
+                "110cm",
+                "118cm"
+            ],
+            [
+                "56cm",
+                "59cm",
+                "62cm",
+                "67cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "ボトムス",
+        "ショートパンツ・短パン",
+        "サッカー",
+        "フットサル",
+        "代表",
+        "ドイツ代表",
+        "エアロレディ",
+        "リサイクル素材一部使用",
+        "サッカーウェア・服",
+        "フットサルウェア・服",
+        "GZN05"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IP8158/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "ユニセックス",
+        "サッカー",
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "代表",
+        "ドイツ代表 24 アウェイユニフォーム"
+    ],
+    "category": "サッカー",
+    "product name": "ドイツ代表 24 アウェイユニフォーム",
+    "product price": "13,200",
+    "available sizes": [
+        "XS",
+        "M",
+        "XL",
+        "2XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IP/IP8158/z-IP8158-on_model-standard_view-ggl4Pt8AsL.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8158/z-IP8158-on_model-back_view-1JM01UaX1Q.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8158/z-IP8158-on_model-walking_view-mkZV2CulDt.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8158/z-IP8158-3d_torso-front_center_view-YoirtGQDzB.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8158/z-IP8158-3d_torso-back_center_view-4G8jQyCj2D.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8158/z-IP8158-on_model-detail_view_1-CC3f7Vyupl.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8158/z-IP8158-on_model-detail_view_2-DV4fF978KB.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "ドイツ代表 24 アウェイユニフォーム",
+    "general description": "ベテランファンも驚く、まったく新しいカタチ。鷹の羽をイメージしたデザインが胸のあたりに浮かび上がる、鮮やかなパープルとブルーでまとめたドイツ代表アウェイユニフォーム。汗をコントロールするAEROREADYとプレミアムなウーブンチームエンブレムを携えた、快適に声援を送れる作り。\n\nこの製品は100%リサイクル素材で作られている。製造された製品の素材をリユースすることで、ゴミの量、限りある資源への依存、そしてアディダス製品のフットプリントを減らすことにつながる。",
+    "general description itemized": [
+        "スリムフィット",
+        "リブ仕上げのクルーネック",
+        "ポリエステル100%（インターロック）",
+        "AEROREADY",
+        "脇の下、サイド、背面下部にメッシュパネル",
+        "ドイツ代表のウーブンエンブレム",
+        "後ろ襟の下に\"Deutschland\"の文字",
+        "商品番号：IP8158",
+        "色：セミルシッドフクシャ/チームカレッジパープル"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "ラグラン袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "M",
+                "XL",
+                "2XL"
+            ],
+            [
+                "91cm",
+                "97cm",
+                "105cm",
+                "113cm"
+            ],
+            [
+                "69cm",
+                "71cm",
+                "73cm",
+                "75cm"
+            ],
+            [
+                "35cm",
+                "37cm",
+                "38cm",
+                "39cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "サッカー",
+        "フットサル",
+        "代表",
+        "半袖",
+        "ドイツ代表",
+        "エアロレディ",
+        "リサイクル素材一部使用",
+        "サッカーウェア・服",
+        "フットサルウェア・服",
+        "GZN11"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IP8166/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "ユニセックス",
+        "サッカー",
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "代表",
+        "ドイツ代表 2024 アウェイ オーセンティックユニフォーム"
+    ],
+    "category": "サッカー",
+    "product name": "ドイツ代表 2024 アウェイ オーセンティックユニフォーム",
+    "product price": "17,600",
+    "available sizes": [
+        "XS",
+        "M",
+        "XL",
+        "2XL",
+        "4XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IP/IP8166/z-IP8166-marketing-heromrktng_view_1-64DDlDgS6S.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8166/z-IP8166-on_model-standard_view-YzsmiVQBuK.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8166/z-IP8166-marketing-heromrktng_view_3-r6tZGLlcwR.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8166/z-IP8166-marketing-heromrktng_view_4-afRuXb3IQo.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8166/z-IP8166-marketing-heromrktng_view_5-OGkFqslllE.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8166/z-IP8166-marketing-heromrktng_view_6-JD9lMJ1j0R.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8166/z-IP8166-on_model-standard_outfit_view-E1Wn0MdnnR.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8166/z-IP8166-3d_torso-front_center_view-z5mZbo8wXv.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8166/z-IP8166-3d_torso-back_center_view-Mprk8rfBcK.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8166/z-IP8166-on_model-detail_view_1-xyIjGS6eZE.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8166/z-IP8166-on_model-detail_view_2-hNMaZToFd2.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8166/z-IP8166-marketing-descmrktng_view_1-n9XH4aiV6W.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "ドイツ代表 2024 アウェイ オーセンティックユニフォーム",
+    "general description": "素晴らしいレガシーを讃える、斬新なルックス。目を見張るような試合展開をもたらすべく、ハイテク機能と大胆なデザインを融合させた、プロ選手のためのオーセンティックコレクション。この2024 アウェイ オーセンティックユニフォームは、伝統と未来をつなぐことをイメージして、ドイツのシンボルからインスピレーションを得たデザイン。現代的センスを採り入れて、輝かしい歴史とスタイルを反映している。\n\nこのプロ仕様のジャージーを纏って、憧れのチャンピオンのように堂々とピッチに立とう。速乾性のある軽量ファブリックに、エアフローにより清涼感をもたらすHEAT. RDYテクノロジーを採用したシャツが、快適な着心地で終了間際のゴールでの逆転勝利をバックアップ。\n\nこの製品には、リサイクル素材を60%以上使用。既に製造された製品の素材を再利用することが、ゴミの削減と限りある資源への依存の軽減につながる。",
+    "general description itemized": [
+        "スリムフィット",
+        "クルーネック",
+        "ポリエステル100%（シングルジャージー）",
+        "両サイドと背面下部：ポリエステル100%（エンジニアード）",
+        "HEAT. RDY",
+        "袖にメッシュインサート",
+        "ドイツ代表エンブレムを熱転写",
+        "バックネックに\"Deutschland\"の文字",
+        "商品番号：IP8166",
+        "色：セミルシッドフクシャ/チームカレッジパープル"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "ラグラン袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "M",
+                "XL",
+                "2XL"
+            ],
+            [
+                "87cm",
+                "93cm",
+                "101cm",
+                "109cm"
+            ],
+            [
+                "70cm",
+                "72cm",
+                "74cm",
+                "76cm"
+            ],
+            [
+                "34cm",
+                "36cm",
+                "37cm",
+                "38cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "サッカー",
+        "フットサル",
+        "代表",
+        "半袖",
+        "ドイツ代表",
+        "ヒートレディ",
+        "リサイクル素材一部使用",
+        "サッカーウェア・服",
+        "フットサルウェア・服",
+        "GZN18"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IP8240/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "サッカー",
+        "ウェア・服",
+        "ボトムス",
+        "ジャージ",
+        "代表",
+        "ドイツ代表 ティロ 24 コンペティション トレーニングパンツ"
+    ],
+    "category": "メンズ サッカー",
+    "product name": "ドイツ代表 ティロ 24 コンペティション トレーニングパンツ",
+    "product price": "9,350",
+    "available sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IP/IP8240/z-IP8240-on_model-standard_view-5Or1tHAjBg.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8240/z-IP8240-on_model-back_view-1Zlt1grLmf.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8240/z-IP8240-on_model-walking_view-RtzFwyD6eI.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8240/z-IP8240-3d_torso-front_center_view-zkrMoVVgob.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8240/z-IP8240-on_model-detail_view_1-0RxpvKxn05.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8240/z-IP8240-on_model-detail_view_2-ycpopgiAWu.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "ドイツ代表 ティロ 24 コンペティション トレーニングパンツ",
+    "general description": "勝利に向けてギアを上げる、ドイツ代表チームのアディダス トレーニングパンツ。軽いウォーミングアップからビッグマッチに備えた強化練習にもフォーカスできるように、アスリートの身体をドライに保つ、優れた吸湿性を発揮するAEROREADYシリーズ。ハードなトレーニング中に必携アイテムを収納できる、便利なジップポケット付き。ドイツ代表サポーターのプライドを示せる、熱転写エンブレムを装備。\n\nこの製品は100%リサイクル素材で作られている。製造された製品の素材をリユースすることで、ゴミの量、限りある資源への依存、そしてアディダス製品のフットプリントを減らすことにつながる。",
+    "general description itemized": [
+        "スリムフィット",
+        "ドローコード付きの伸縮性ウエスト",
+        "ポリエステル100%（インターロック）",
+        "AEROREADY",
+        "フロントにジップポケット",
+        "脚の後ろ側にメッシュインサート",
+        "アンクルジップ",
+        "ドイツ代表のエンブレムを熱転写",
+        "商品番号：IP8240",
+        "色：ブラック",
+        "生産国：Cambodia"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "ウエスト",
+            "股下",
+            "股上",
+            "ヒップ",
+            "裾回り"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            [
+                "64cm",
+                "69cm",
+                "71cm",
+                "76cm",
+                "83cm",
+                "90cm"
+            ],
+            [
+                "67cm",
+                "67cm",
+                "67cm",
+                "67cm",
+                "67cm",
+                "67cm"
+            ],
+            [
+                "29cm",
+                "29cm",
+                "29cm",
+                "30cm",
+                "30cm",
+                "31cm"
+            ],
+            [
+                "88cm",
+                "93cm",
+                "95cm",
+                "100cm",
+                "106cm",
+                "113cm"
+            ],
+            [
+                "21cm",
+                "22cm",
+                "22cm",
+                "23cm",
+                "24cm",
+                "25cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "ボトムス",
+        "ジャージ",
+        "パンツ",
+        "サッカー",
+        "フットサル",
+        "代表",
+        "ティロ",
+        "ドイツ代表",
+        "エアロレディ",
+        "リサイクル素材一部使用",
+        "サッカーウェア・服",
+        "フットサルウェア・服",
+        "GZN66"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IP8245/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "サッカー",
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "代表",
+        "ドイツ代表 ティロ 24 コンペティション トレーニングジャージー"
+    ],
+    "category": "メンズ サッカー",
+    "product name": "ドイツ代表 ティロ 24 コンペティション トレーニングジャージー",
+    "product price": "6,600",
+    "available sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IP/IP8245/z-IP8245-on_model-standard_view-iN1hZ6csDI.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8245/z-IP8245-on_model-back_view-IvdkKKqQhN.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8245/z-IP8245-on_model-walking_view-fMNhTilyfR.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8245/z-IP8245-3d_torso-front_center_view-Z8LSf2LIKo.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8245/z-IP8245-3d_torso-back_center_view-izpyRPcN3l.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8245/z-IP8245-on_model-detail_view_1-wFf0NipKpz.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8245/z-IP8245-on_model-detail_view_2-qKz36FjZAK.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "ドイツ代表 ティロ 24 コンペティション トレーニングジャージー",
+    "general description": "このドイツ代表サッカージャージーを着て、ハードなトレーニングに励み、スキルを磨こう。伸縮性に優れた無駄のないすっきりしたデザインだから、気を散らすことなく自分の限界に挑戦できる。ハードなトレーニングが終わるまで、快適でドライな着心地を保つAEROREADYシリーズ。サポーターのプライドを示せるエンブレムは、胸に熱転写することで軽量化を図っている。\n\nこの製品にはリサイクル素材を100%使用。製造された製品の素材をリユースすることは、ゴミの量、限りある資源への依存、そしてアディダス製品のフットプリントを減らすことにつながる。",
+    "general description itemized": [
+        "スリムフィット",
+        "リブ仕上げのクルーネック",
+        "ポリエステル100%（インターロック）",
+        "AEROREADY",
+        "サイド、袖、肩にメッシュインサート",
+        "ドイツ代表のエンブレムを熱転写",
+        "商品番号：IP8245",
+        "色：チームカレッジパープル",
+        "生産国：Vietnam"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "ウエスト",
+            "ラグラン袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            [
+                "93cm",
+                "98cm",
+                "100cm",
+                "105cm",
+                "111cm",
+                "118cm"
+            ],
+            [
+                "72cm",
+                "73cm",
+                "73cm",
+                "74cm",
+                "76cm",
+                "77cm"
+            ],
+            [
+                "89cm",
+                "94cm",
+                "96cm",
+                "101cm",
+                "108cm",
+                "115cm"
+            ],
+            [
+                "36cm",
+                "37cm",
+                "37cm",
+                "38cm",
+                "40cm",
+                "42cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "サッカー",
+        "フットサル",
+        "代表",
+        "ティロ",
+        "半袖",
+        "ドイツ代表",
+        "エアロレディ",
+        "リサイクル素材一部使用",
+        "サッカーウェア・服",
+        "フットサルウェア・服",
+        "GZN70"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IP8359/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "ユニセックス",
+        "サッカー",
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "代表",
+        "スコットランド代表 24 ホームユニフォーム"
+    ],
+    "category": "サッカー",
+    "product name": "スコットランド代表 24 ホームユニフォーム",
+    "product price": "13,200",
+    "available sizes": [
+        "XS",
+        "M",
+        "XL",
+        "2XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IP/IP8359/z-IP8359-on_model-standard_view-AMUwjLgvlr.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8359/z-IP8359-on_model-back_view-Q6mXKbROc1.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8359/z-IP8359-on_model-walking_view-bCK1u1D4FL.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8359/z-IP8359-3d_torso-front_center_view-lzNWlL9pWE.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8359/z-IP8359-3d_torso-back_center_view-FaiEKqgzFZ.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8359/z-IP8359-on_model-detail_view_1-qVokpHVdeb.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "スコットランド代表 24 ホームユニフォーム",
+    "general description": "タータンチェックが主役の、アイキャッチーなスコットランド代表ホームユニフォーム。トラディショナルなスコティッシュスタイルに独特のひねりを加えたデザイン。シャツの前後に大胆なグラフィックをあしらい、チームエンブレムとスタイリッシュな国旗が誇り高きプライドを掲げている。吸湿性に優れたAEROREADY素材とメッシュインサートを組み合わせた、プレーヤーとサポーターのどちらにも適した一着。\n\nこの製品にはリサイクル素材を100%使用。製造された製品の素材をリユースすることは、ゴミの量、限りある資源への依存、そしてアディダス製品のフットプリントを減らすことにつながる。",
+    "general description itemized": [
+        "スリムフィット",
+        "リブ仕上げのクルーネック",
+        "ポリエステル100%（ジャカード）",
+        "両サイドと背面下部：ポリエステル100%（ワッフル）",
+        "AEROREADY",
+        "サイドにメッシュインサート",
+        "スコットランド代表ウーブンエンブレム",
+        "後ろ襟の下にスコットランド国旗",
+        "商品番号：IP8359",
+        "色：ナイトネイビー"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "ラグラン袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "M",
+                "XL",
+                "2XL"
+            ],
+            [
+                "91cm",
+                "97cm",
+                "105cm",
+                "113cm"
+            ],
+            [
+                "69cm",
+                "71cm",
+                "73cm",
+                "75cm"
+            ],
+            [
+                "35cm",
+                "37cm",
+                "38cm",
+                "39cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "サッカー",
+        "フットサル",
+        "代表",
+        "半袖",
+        "エアロレディ",
+        "リサイクル素材一部使用",
+        "サッカーウェア・服",
+        "フットサルウェア・服",
+        "IQF47"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IQ0769/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "ユニセックス",
+        "サッカー",
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "代表",
+        "ベルギー代表 24 ホームユニフォーム"
+    ],
+    "category": "サッカー",
+    "product name": "ベルギー代表 24 ホームユニフォーム",
+    "product price": "13,200",
+    "available sizes": [
+        "XS",
+        "M",
+        "XL",
+        "2XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IQ/IQ0769/z-IQ0769-on_model-standard_view-pmqHvMQYcH.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ0769/z-IQ0769-on_model-back_view-w9ia27qCq4.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ0769/z-IQ0769-on_model-walking_view-7hhGIpJUYV.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ0769/z-IQ0769-3d_torso-front_center_view-EJxU8UNcaM.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ0769/z-IQ0769-3d_torso-back_center_view-790m6gidUd.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ0769/z-IQ0769-on_model-detail_view_1-AvC85UjQrd.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ0769/z-IQ0769-on_model-detail_view_2-Lnc4ATme1S.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "ベルギー代表 24 ホームユニフォーム",
+    "general description": "視線をとらえるデザイン。このホームユニフォームの目を引く幾何学模様は、ベルギーの現代ファッションとモダンな建築からインスピレーションを得たもの。そんなグラフィックの背後では、AEROREADY素材がスタンドから代表チームを応援するサポーターの身体をドライに保ってくれる。胸のチームエンブレムと後ろ襟の\"1895\"のサインオフが、シーズンを通してサッカーファンの情熱を表現。\n\nこの製品にはリサイクル素材を100%使用。製造された製品の素材をリユースすることは、ゴミの量、限りある資源への依存、そしてアディダス製品のフットプリントを減らすことにつながる。",
+    "general description itemized": [
+        "スリムフィット",
+        "リブ仕上げのVネック",
+        "ポリエステル100%（インターロック）",
+        "両サイドと背面下部：ポリエステル100%（ワッフル）",
+        "AEROREADY",
+        "サイドと袖にメッシュインサート",
+        "ベルギー代表のウーブンエンブレム",
+        "後ろ襟の下に\"1895\"の文字",
+        "商品番号：IQ0769",
+        "色：チームカレッジバーガンディ"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "ラグラン袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "M",
+                "XL",
+                "2XL"
+            ],
+            [
+                "91cm",
+                "97cm",
+                "105cm",
+                "113cm"
+            ],
+            [
+                "69cm",
+                "71cm",
+                "73cm",
+                "75cm"
+            ],
+            [
+                "35cm",
+                "37cm",
+                "38cm",
+                "39cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "サッカー",
+        "フットサル",
+        "代表",
+        "半袖",
+        "ベルギー代表",
+        "エアロレディ",
+        "リサイクル素材一部使用",
+        "サッカーウェア・服",
+        "フットサルウェア・服",
+        "IXF08"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IQ0775/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "ユニセックス",
+        "サッカー",
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "代表",
+        "ベルギー代表 24 アウェイユニフォーム"
+    ],
+    "category": "サッカー",
+    "product name": "ベルギー代表 24 アウェイユニフォーム",
+    "product price": "13,200",
+    "available sizes": [
+        "XS",
+        "M",
+        "XL",
+        "2XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IQ/IQ0775/z-IQ0775-on_model-standard_view-dPMmbsuupf.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ0775/z-IQ0775-on_model-back_view-mycxRBDqOT.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ0775/z-IQ0775-on_model-walking_view-dBBz8THWrY.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ0775/z-IQ0775-3d_torso-front_center_view-iPS4qOoF6J.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ0775/z-IQ0775-3d_torso-back_center_view-7SKzDbDGvF.jpg",
+        "https://shop.adidas.jp/photo/IQ/IQ0775/z-IQ0775-on_model-detail_view_1-64LJsiImVQ.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "ベルギー代表 24 アウェイユニフォーム",
+    "general description": "サッカーのアドベンチャーのために作られた、このアウェイユニフォームのアイキャッチーな色使いは、ベルギーの豊かなコミック文化にインスパイアされたもの。ゲームがヒートアップしても吸湿性を発揮するAEROREADY素材を採用した、ファンに快適な着心地をもたらす一着。チームのウーブンエンブレムで大胆なデザインをまとめている。\n\nこの製品にはリサイクル素材を100%使用。製造された製品の素材をリユースすることで、ゴミの量、限りある資源への依存、そしてアディダス製品のフットプリントを減らすことにつながる。",
+    "general description itemized": [
+        "スリムフィット",
+        "1つボタンの、リブ仕上げのポロ襟",
+        "ポリエステル100%（インターロック）",
+        "サイドパネルと背面下部：ポリエステル100%（ワッフル）",
+        "AEROREADY",
+        "サイドと袖にメッシュインサート",
+        "ベルギー代表のウーブンエンブレム",
+        "後ろ襟の下にの王冠のアートワーク",
+        "商品番号：IQ0775",
+        "色：セミブルーバースト"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "ラグラン袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "M",
+                "XL",
+                "2XL"
+            ],
+            [
+                "91cm",
+                "97cm",
+                "105cm",
+                "113cm"
+            ],
+            [
+                "69cm",
+                "71cm",
+                "73cm",
+                "75cm"
+            ],
+            [
+                "36cm",
+                "37cm",
+                "39cm",
+                "40cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "サッカー",
+        "フットサル",
+        "代表",
+        "半袖",
+        "ベルギー代表",
+        "エアロレディ",
+        "リサイクル素材一部使用",
+        "サッカーウェア・服",
+        "フットサルウェア・服",
+        "IXF14"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IS9033/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "ユニセックス",
+        "サッカー",
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "代表",
+        "スペイン代表 24 アウェイユニフォーム"
+    ],
+    "category": "サッカー",
+    "product name": "スペイン代表 24 アウェイユニフォーム",
+    "product price": "13,200",
+    "available sizes": [
+        "XS",
+        "M",
+        "XL",
+        "2XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IS/IS9033/z-IS9033-on_model-standard_view-9P3SqNJR6b.jpg",
+        "https://shop.adidas.jp/photo/IS/IS9033/z-IS9033-on_model-back_view-PrFpJUgcUq.jpg",
+        "https://shop.adidas.jp/photo/IS/IS9033/z-IS9033-on_model-walking_view-fX8iyShQpy.jpg",
+        "https://shop.adidas.jp/photo/IS/IS9033/z-IS9033-3d_torso-front_center_view-4epUTG5G0w.jpg",
+        "https://shop.adidas.jp/photo/IS/IS9033/z-IS9033-3d_torso-back_center_view-yt5TnIRuej.jpg",
+        "https://shop.adidas.jp/photo/IS/IS9033/z-IS9033-on_model-detail_view_1-MJIhqXAysA.jpg",
+        "https://shop.adidas.jp/photo/IS/IS9033/z-IS9033-on_model-detail_view_2-Y0WhzgcB9I.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "スペイン代表 24 アウェイユニフォーム",
+    "general description": "太陽の下で開花する、スペインの夏のシンボルからインスピレーションを得た、カーネーションのサインオフとチームのウーブンエンブレムが目印の、サポーター向けスペイン代表アウェイユニフォーム。吸湿性を発揮するAEROREADYテクノロジーとソフトなファブリックを組み合わせた、ファンに快適な着心地を提供するジャージー。\n\nこの製品は100%リサイクル素材で作られている。製造された製品の素材をリユースすることで、ゴミの量、限りある資源への依存、そしてアディダス製品のフットプリントを減らすことにつながる。",
+    "general description itemized": [
+        "スリムフィット",
+        "リブ仕上げのVネック",
+        "ポリエステル100%（インターロック）",
+        "AEROREADY",
+        "脇の下、サイド、背面下部にメッシュパネル",
+        "スペイン代表のウーブンエンブレム",
+        "後ろ襟の下にカーネーションのアートワーク",
+        "商品番号：IS9033",
+        "色：パルスイエロー/ヘイローミント"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "ラグラン袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "M",
+                "XL",
+                "2XL"
+            ],
+            [
+                "91cm",
+                "97cm",
+                "105cm",
+                "113cm"
+            ],
+            [
+                "69cm",
+                "71cm",
+                "73cm",
+                "75cm"
+            ],
+            [
+                "35cm",
+                "37cm",
+                "38cm",
+                "39cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "サッカー",
+        "フットサル",
+        "代表",
+        "半袖",
+        "スペイン代表",
+        "リサイクル素材一部使用",
+        "サッカーウェア・服",
+        "フットサルウェア・服",
+        "JMS88"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IS9034/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "ユニセックス",
+        "サッカー",
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "代表",
+        "スペイン代表 2024 アウェイ オーセンティックユニフォーム"
+    ],
+    "category": "サッカー",
+    "product name": "スペイン代表 2024 アウェイ オーセンティックユニフォーム",
+    "product price": "17,600",
+    "available sizes": [
+        "XS",
+        "M",
+        "XL",
+        "2XL",
+        "4XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IS/IS9034/z-IS9034-marketing-heromrktng_view_1-9ycYptXjE8.jpg",
+        "https://shop.adidas.jp/photo/IS/IS9034/z-IS9034-on_model-standard_view-mS7ZXHPHeU.jpg",
+        "https://shop.adidas.jp/photo/IS/IS9034/z-IS9034-marketing-heromrktng_view_3-hk4d2CXPZY.jpg",
+        "https://shop.adidas.jp/photo/IS/IS9034/z-IS9034-marketing-heromrktng_view_4-bOs0FsbhvG.jpg",
+        "https://shop.adidas.jp/photo/IS/IS9034/z-IS9034-marketing-heromrktng_view_5-pWpnuCoH8l.jpg",
+        "https://shop.adidas.jp/photo/IS/IS9034/z-IS9034-marketing-heromrktng_view_6-1XnJ6ZCPk6.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/photo/IS/IS9034/z-IS9034-on_model-standard_outfit_view-wHiJ9JuSV8.jpg",
+        "https://shop.adidas.jp/photo/IS/IS9034/z-IS9034-3d_torso-front_center_view-QMWQkuTvkv.jpg",
+        "https://shop.adidas.jp/photo/IS/IS9034/z-IS9034-3d_torso-back_center_view-AsM6dOrrri.jpg",
+        "https://shop.adidas.jp/photo/IS/IS9034/z-IS9034-on_model-detail_view_1-P8vbAiQvHD.jpg",
+        "https://shop.adidas.jp/photo/IS/IS9034/z-IS9034-on_model-detail_view_2-nLcLgCgffr.jpg",
+        "https://shop.adidas.jp/photo/IS/IS9034/z-IS9034-marketing-descmrktng_view_1-ni6cS5XBVr.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "スペイン代表 2024 アウェイ オーセンティックユニフォーム",
+    "general description": "素晴らしいレガシーを讃える、斬新なルックス。目を見張るような試合展開をもたらすべく、ハイテク機能と大胆なデザインを融合させた、プロ選手のためのオーセンティックコレクション。スペインサッカーの歴史に敬意を表して生まれた、このスペイン代表 2024 アウェイ オーセンティックユニフォームは、長い伝統を大切に継承しつつ、未来に一歩踏み出すチームを象徴するかのようなデザイン。\n\n試合用に作られたスタイリッシュで機能的なジャージーを纏って、ラ・フリア・ロハに大きな声援を送ろう。ソフトな肌触りの生地が快適な着心地を保ち、イノベーティブなディテールがパフォーマンスの向上を促す。通気を促すadidas HEAT. RDY技術を採り入れた先進的素材が、身体が熱くなり過ぎないように清涼感をもたらすと同時に、汗を逃がしてくれる。\n\nリサイクル素材を選択することで、既に製造された製品の素材を再利用することができ、それがゴミの削減と、限りある資源への依存の軽減につながる。",
+    "general description itemized": [
+        "スリムフィット",
+        "Vネック",
+        "ポリエステル100%（シングルジャージー）",
+        "両サイドと背面下部：ポリエステル100%（エンジニアード）",
+        "HEAT. RDY",
+        "袖にメッシュインサート",
+        "スペイン代表エンブレムを熱転写",
+        "バックネックに連盟のアートワーク",
+        "商品番号：IS9034",
+        "色：パルスイエロー/ヘイローミント"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "ラグラン袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "M",
+                "XL",
+                "2XL"
+            ],
+            [
+                "87cm",
+                "93cm",
+                "101cm",
+                "109cm"
+            ],
+            [
+                "70cm",
+                "72cm",
+                "74cm",
+                "76cm"
+            ],
+            [
+                "34cm",
+                "36cm",
+                "37cm",
+                "38cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "サッカー",
+        "フットサル",
+        "代表",
+        "半袖",
+        "スペイン代表",
+        "ヒートレディ",
+        "リサイクル素材一部使用",
+        "サッカーウェア・服",
+        "フットサルウェア・服",
+        "JMS89"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IN0656/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "ユニセックス",
+        "サッカー",
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "代表",
+        "イタリア代表 24 アウェイユニフォーム"
+    ],
+    "category": "サッカー",
+    "product name": "イタリア代表 24 アウェイユニフォーム",
+    "product price": "13,200",
+    "available sizes": [
+        "XS",
+        "M",
+        "XL",
+        "2XL",
+        "4XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IN/IN0656/z-IN0656-on_model-standard_view-wp0DbXxBgK.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0656/z-IN0656-on_model-back_view-EY22u4e6cv.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0656/z-IN0656-on_model-walking_view-sYJlakPFBO.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0656/z-IN0656-3d_torso-front_center_view-J2CsdgJFVI.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0656/z-IN0656-3d_torso-back_center_view-6q6M4uygPu.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0656/z-IN0656-on_model-detail_view_1-9uHbVekW0p.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "イタリア代表 24 アウェイユニフォーム",
+    "general description": "赤、白、緑のイル・トリコローレ、三色旗が誇り高く胸に輝く、イタリアのアウェイユニフォーム。胸に鎮座する代表チームのウーブンエンブレムで、サッカー愛を表現できる。優れた吸湿性を発揮するAEROREADYを採用しているから、ピッチでプレーするときも着用できるけれど、主要な目的は、全てのファンの心を国の誇りで満たすこと。\n\nこの製品は100%リサイクル素材で作られている。製造された製品の素材をリユースすることで、ゴミの量、限りある資源への依存、そしてアディダス製品のフットプリントを減らすことにつながる。",
+    "general description itemized": [
+        "スリムフィット",
+        "リブ仕上げのVネック",
+        "ポリエステル100%（インターロック）",
+        "AEROREADY",
+        "脇の下、サイド、背面下部にメッシュパネル",
+        "イタリア代表のウーブンエンブレム",
+        "商品番号：IN0656",
+        "色：ホワイト"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "ラグラン袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "M",
+                "XL",
+                "2XL"
+            ],
+            [
+                "91cm",
+                "97cm",
+                "105cm",
+                "113cm"
+            ],
+            [
+                "69cm",
+                "71cm",
+                "73cm",
+                "75cm"
+            ],
+            [
+                "35cm",
+                "37cm",
+                "38cm",
+                "39cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "サッカー",
+        "フットサル",
+        "代表",
+        "半袖",
+        "イタリア代表",
+        "エアロレディ",
+        "リサイクル素材一部使用",
+        "サッカーウェア・服",
+        "フットサルウェア・服",
+        "JSW37"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IN0657/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "ユニセックス",
+        "サッカー",
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "代表",
+        "イタリア代表 24 ホームユニフォーム"
+    ],
+    "category": "サッカー",
+    "product name": "イタリア代表 24 ホームユニフォーム",
+    "product price": "13,200",
+    "available sizes": [
+        "XS",
+        "M",
+        "XL",
+        "2XL",
+        "4XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IN/IN0657/z-IN0657-on_model-standard_view-uMTciCV5x3.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0657/z-IN0657-on_model-back_view-gyUR2gQuQO.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0657/z-IN0657-3d_torso-front_center_view-5V8OZFWBnO.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0657/z-IN0657-3d_torso-back_center_view-O7cAtfJdfK.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0657/z-IN0657-on_model-detail_view_1-voqedr7TNx.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0657/z-IN0657-on_model-detail_view_2-A3SYkEL0rF.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "イタリア代表 24 ホームユニフォーム",
+    "general description": "イタリアのユニフォームといえば、青が有名だが、国旗は緑、白、赤の三色。だから、このホームジャージーでは、スリーストライプスに、国のプライドが詰まった有名なイル・トリコローレ（三色）を採用している。ソフトな生地に吸湿性を発揮するAEROREADYテクノロジーを用いた、サポーター向けの一枚。胸のウーブンエンブレムが、イタリアサッカーに対する情熱を表現。\n\nこの製品は100%リサイクル素材で作られている。製造された製品の素材をリユースすることで、ゴミの量、限りある資源への依存、そしてアディダス製品のフットプリントを減らすことにつながる。",
+    "general description itemized": [
+        "スリムフィット",
+        "リブ仕上げのクルーネック",
+        "ポリエステル100%（インターロック）",
+        "AEROREADY",
+        "脇の下、サイド、背面下部にメッシュパネル",
+        "イタリア代表のウーブンエンブレム",
+        "商品番号：IN0657",
+        "色：ブルー"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "ラグラン袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "M",
+                "XL",
+                "2XL"
+            ],
+            [
+                "91cm",
+                "97cm",
+                "105cm",
+                "113cm"
+            ],
+            [
+                "69cm",
+                "71cm",
+                "73cm",
+                "75cm"
+            ],
+            [
+                "35cm",
+                "37cm",
+                "38cm",
+                "39cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "サッカー",
+        "フットサル",
+        "代表",
+        "半袖",
+        "イタリア代表",
+        "リサイクル素材一部使用",
+        "サッカーウェア・服",
+        "フットサルウェア・服",
+        "JSW38"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IN0658/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "ユニセックス",
+        "サッカー",
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "代表",
+        "イタリア代表 2024 ホーム オーセンティックユニフォーム"
+    ],
+    "category": "サッカー",
+    "product name": "イタリア代表 2024 ホーム オーセンティックユニフォーム",
+    "product price": "17,600",
+    "available sizes": [
+        "XS",
+        "M",
+        "XL",
+        "2XL",
+        "4XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IN/IN0658/z-IN0658-marketing-heromrktng_view_1-gJQ6aNLfcs.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0658/z-IN0658-on_model-front_view-lRJUWFGSVc.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0658/z-IN0658-marketing-heromrktng_view_3-GE8iyNcMWA.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0658/z-IN0658-marketing-heromrktng_view_4-wyTTBZ93HH.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0658/z-IN0658-marketing-heromrktng_view_5-xPMpzktegE.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0658/z-IN0658-marketing-heromrktng_view_6-dkSK0D66EI.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0658/z-IN0658-on_model-standard_outfit_view-hdwL5lEsam.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0658/z-IN0658-3d_torso-front_center_view-Ivwa0q3Q8T.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0658/z-IN0658-3d_torso-back_center_view-pCFLrVXqUn.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0658/z-IN0658-on_model-detail_view_1-iBJDXH9q4Q.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0658/z-IN0658-on_model-detail_view_2-AX7uyp1dOs.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0658/z-IN0658-marketing-descmrktng_view_1-otjmiysAg5.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "イタリア代表 2024 ホーム オーセンティックユニフォーム",
+    "general description": "素晴らしいレガシーを讃える、斬新なルックス。目を見張るような試合展開をもたらすべく、ハイテク機能と大胆なデザインを融合させた、プロ選手のためのオーセンティックコレクション。イタリアサッカーのプライドと洗練を融合させた、このホーム オーセンティックユニフォームは、イタリアの栄光を纏ったプレミアムなシャツ。\n\nスリムなシルエットのジャージーの胸には、誇り高き歴史を象徴する、有名なイタリアのエンブレムが鎮座する。一日を通して快適な着心地をキープする、ソフトで通気性に優れたファブリックに、スタジアムでもピッチでもドライな感触を保つ、HEAT. RDYテクノロジーを採用している。\n\nリサイクル素材を選択することで、既に製造された製品の素材を再利用することができ、それがゴミの削減と、限りある資源への依存の軽減につながる。",
+    "general description itemized": [
+        "スリムフィット",
+        "クルーネック",
+        "ポリエステル100%（シングルジャージー）",
+        "両サイドと背面下部：ポリエステル100%（エンジニアード）",
+        "HEAT. RDY",
+        "袖にメッシュインサート",
+        "イタリア代表エンブレムを熱転写",
+        "商品番号：IN0658",
+        "色：ブルー"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "ラグラン袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "M",
+                "XL",
+                "2XL"
+            ],
+            [
+                "87cm",
+                "93cm",
+                "101cm",
+                "109cm"
+            ],
+            [
+                "70cm",
+                "72cm",
+                "74cm",
+                "76cm"
+            ],
+            [
+                "34cm",
+                "36cm",
+                "37cm",
+                "38cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "サッカー",
+        "フットサル",
+        "代表",
+        "半袖",
+        "イタリア代表",
+        "ヒートレディ",
+        "リサイクル素材一部使用",
+        "サッカーウェア・服",
+        "フットサルウェア・服",
+        "JSW39"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IN0659/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "ユニセックス",
+        "サッカー",
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "代表",
+        "イタリア代表 2024 アウェイ オーセンティックユニフォーム"
+    ],
+    "category": "サッカー",
+    "product name": "イタリア代表 2024 アウェイ オーセンティックユニフォーム",
+    "product price": "17,600",
+    "available sizes": [
+        "XS",
+        "M",
+        "XL",
+        "2XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IN/IN0659/z-IN0659-marketing-heromrktng_view_1-m7HJPxjjZr.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0659/z-IN0659-on_model-standard_view-bzicJp2MTS.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0659/z-IN0659-marketing-heromrktng_view_3-jBvOkFe3ef.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0659/z-IN0659-marketing-heromrktng_view_4-csg6RRX54r.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0659/z-IN0659-marketing-heromrktng_view_5-nFAtz9CQDz.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0659/z-IN0659-marketing-heromrktng_view_6-tVmDebIPfC.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0659/z-IN0659-on_model-standard_outfit_view-REiCslsAS0.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0659/z-IN0659-3d_torso-front_center_view-aPxHeJdYKh.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0659/z-IN0659-3d_torso-back_center_view-kMnp7tF0EI.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0659/z-IN0659-on_model-detail_view_1-jkbprQtw1k.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0659/z-IN0659-on_model-detail_view_2-j47AlxClHx.jpg",
+        "https://shop.adidas.jp/photo/IN/IN0659/z-IN0659-marketing-descmrktng_view_1-84BXrGZfgd.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "イタリア代表 2024 アウェイ オーセンティックユニフォーム",
+    "general description": "素晴らしいレガシーを讃える、斬新なルックス。目を見張るような試合展開をもたらすべく、ハイテク機能と大胆なデザインを融合させた、プロ選手のためのオーセンティックコレクション。見紛うことなきイタリア国旗カラーの緑、白、赤を基調とした、伝統に新たな解釈を加えたアズーリのためのジャージー。\n\nこの選手たちが試合で着用するために作られたシャツを着て、イタリアサッカーの栄光を讃えよう。2024アウェイ オーセンティックユニフォームの、袖には有名なスリーストライプス、胸に代表チームのエンブレムをあしらっている。すっきりとしたモダンなシルエットに仕上げたスリムなジャージーには、試合中、身体をドライに保つHEAT. RDYテクノロジーを採用している。\n\nリサイクル素材を選択することで、既に製造された製品の素材を再利用することができ、それがゴミの削減と、限りある資源への依存の軽減につながる。",
+    "general description itemized": [
+        "スリムフィット",
+        "Vネック",
+        "ポリエステル100%（シングルジャージー）",
+        "両サイドと背面下部：ポリエステル100%（エンジニアード）",
+        "HEAT. RDY",
+        "袖にメッシュインサート",
+        "イタリア代表エンブレムを熱転写",
+        "商品番号：IN0659",
+        "色：ホワイト"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "ラグラン袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "M",
+                "XL",
+                "2XL"
+            ],
+            [
+                "87cm",
+                "93cm",
+                "101cm",
+                "109cm"
+            ],
+            [
+                "70cm",
+                "72cm",
+                "74cm",
+                "76cm"
+            ],
+            [
+                "34cm",
+                "36cm",
+                "37cm",
+                "38cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "サッカー",
+        "フットサル",
+        "代表",
+        "半袖",
+        "イタリア代表",
+        "ヒートレディ",
+        "リサイクル素材一部使用",
+        "サッカーウェア・服",
+        "フットサルウェア・服",
+        "JSW40"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IZ1620/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "ユニセックス",
+        "サッカー",
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "代表",
+        "ドイツ代表 2024 ホームオーセンティックユニフォーム"
+    ],
+    "category": "サッカー",
+    "product name": "ドイツ代表 2024 ホームオーセンティックユニフォーム",
+    "product price": "17,600",
+    "available sizes": [
+        "XS",
+        "M",
+        "XL",
+        "2XL",
+        "4XL",
+        "6XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IZ/IZ1620/z-IZ1620-marketing-heromrktng_view_1-vGRIQdj8EW.jpg",
+        "https://shop.adidas.jp/photo/IZ/IZ1620/z-IZ1620-on_model-standard_view-WMiug6JOWW.jpg",
+        "https://shop.adidas.jp/photo/IZ/IZ1620/z-IZ1620-marketing-heromrktng_view_3-L6MhLVvJtH.jpg",
+        "https://shop.adidas.jp/photo/IZ/IZ1620/z-IZ1620-marketing-heromrktng_view_4-DAQzq2L1tz.jpg",
+        "https://shop.adidas.jp/photo/IZ/IZ1620/z-IZ1620-marketing-heromrktng_view_5-HbMpyvwg6b.jpg",
+        "https://shop.adidas.jp/photo/IZ/IZ1620/z-IZ1620-marketing-heromrktng_view_6-aaQA8HFpwm.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/photo/IZ/IZ1620/z-IZ1620-on_model-standard_outfit_view-895ogSuvzl.jpg",
+        "https://shop.adidas.jp/photo/IZ/IZ1620/z-IZ1620-3d_torso-front_center_view-V1NVyPzcIV.jpg",
+        "https://shop.adidas.jp/photo/IZ/IZ1620/z-IZ1620-3d_torso-back_center_view-iRJDfMwb6R.jpg",
+        "https://shop.adidas.jp/photo/IZ/IZ1620/z-IZ1620-on_model-detail_view_1-QD5iEQNRts.jpg",
+        "https://shop.adidas.jp/photo/IZ/IZ1620/z-IZ1620-on_model-detail_view_2-Gv0xbhdfpR.jpg",
+        "https://shop.adidas.jp/photo/IZ/IZ1620/z-IZ1620-marketing-descmrktng_view_1-KtZuYTt5ua.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "ドイツ代表 2024 ホームオーセンティックユニフォーム",
+    "general description": "ドイツの国のシンボルからインスピレーションを得た、EURO 2024の開催国のための新しいアイコニックなルックスが登場。オフィシャルプレーヤーがピッチで着用することを考慮して作られたアディダスの最新サッカーシリーズは、試合の日に限界に挑戦する選手たちをサポートして思い出に残るパフォーマンスを引き出すデザイン。\n\nドイツのDNAが身近に感じられるとびきり軽量なドイツ代表 2024 ホームオーセンティックユニフォームを身に着けて、スタジアムまでプライドを携えて行こう。通気性と吸湿性に優れたファブリックとHEAT. RDYテクノロジーを組み合わせた画期的な作りが、爽やかな着心地をもたらす。スリムフィットのシルエットが、ドイツ代表チームを応援する時もスタイリッシュさを添える。\n\nこの製品には、リサイクル素材を60%以上使用。既に製造された製品の素材を再利用することが、ゴミの削減と限りある資源への依存の軽減につながる。",
+    "general description itemized": [
+        "スリムフィット",
+        "クルーネック",
+        "ポリエステル100%（ジャカード）",
+        "両サイドと背面下部：ポリエステル100%（エンジニアード）",
+        "HEAT. RDY",
+        "袖にメッシュインサート",
+        "ドイツ代表のエンブレムを熱転写",
+        "後ろ襟に\"Deutschland\"の文字",
+        "商品番号：IZ1620",
+        "色：ホワイト"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "ラグラン袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "M",
+                "XL",
+                "2XL"
+            ],
+            [
+                "87cm",
+                "93cm",
+                "101cm",
+                "109cm"
+            ],
+            [
+                "70cm",
+                "72cm",
+                "74cm",
+                "76cm"
+            ],
+            [
+                "34cm",
+                "36cm",
+                "37cm",
+                "38cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "サッカー",
+        "フットサル",
+        "代表",
+        "半袖",
+        "ドイツ代表",
+        "ヒートレディ",
+        "リサイクル素材一部使用",
+        "サッカーウェア・服",
+        "フットサルウェア・服",
+        "KLM48"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IP6405/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "サッカー",
+        "ウェア・服",
+        "ボトムス",
+        "ジャージ",
+        "代表",
+        "スペイン代表 ティロ 24 コンペティション トレーニングパンツ"
+    ],
+    "category": "メンズ サッカー",
+    "product name": "スペイン代表 ティロ 24 コンペティション トレーニングパンツ",
+    "product price": "9,350",
+    "available sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IP/IP6405/z-IP6405-on_model-standard_view-ih9PHboQL6.jpg",
+        "https://shop.adidas.jp/photo/IP/IP6405/z-IP6405-on_model-back_view-SUWJGgnxcF.jpg",
+        "https://shop.adidas.jp/photo/IP/IP6405/z-IP6405-on_model-walking_view-34pr5u4LGg.jpg",
+        "https://shop.adidas.jp/photo/IP/IP6405/z-IP6405-on_model-standard_outfit_view-EMZlNaw37y.jpg",
+        "https://shop.adidas.jp/photo/IP/IP6405/z-IP6405-3d_torso-front_center_view-Ok3EQjEshR.jpg",
+        "https://shop.adidas.jp/photo/IP/IP6405/z-IP6405-on_model-detail_view_1-iM5wGDcOO0.jpg",
+        "https://shop.adidas.jp/photo/IP/IP6405/z-IP6405-on_model-detail_view_2-45jXpvif0A.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "スペイン代表 ティロ 24 コンペティション トレーニングパンツ",
+    "general description": "このスペイン代表トレーニングパンツをはいて、すべてのドリルをスムーズにこなそう。動きに合わせて柔軟に伸縮するストレッチ性のあるファブリックを使用。ハードなトレーニング中も身体をドライに保ち、ウェアに気を取られずにスキルを磨くことだけに集中できる、AEROREADYシリーズのパンツ。携行品を収納できるジップポケットと、素晴らしいプレーを見せてくれる偉大なチームの誇りである熱転写チームエンブレムを装備している。\n\nこの製品は100%リサイクル素材で作られている。製造された製品の素材をリユースすることで、ゴミの量、限りある資源への依存、そしてアディダス製品のフットプリントを減らすことにつながる。",
+    "general description itemized": [
+        "スリムフィット",
+        "ドローコード付きの伸縮性ウエスト",
+        "ポリエステル100%（インターロック）",
+        "AEROREADY",
+        "フロントにジップポケット",
+        "脚の後ろ側にメッシュインサート",
+        "アンクルジップ",
+        "スペイン代表エンブレムを熱転写",
+        "商品番号：IP6405",
+        "色：ビクトリーブルー/ヘイローミント",
+        "生産国：Cambodia"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "ウエスト",
+            "股下",
+            "股上",
+            "ヒップ",
+            "裾回り"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            [
+                "64cm",
+                "69cm",
+                "71cm",
+                "76cm",
+                "83cm",
+                "90cm"
+            ],
+            [
+                "67cm",
+                "67cm",
+                "67cm",
+                "67cm",
+                "67cm",
+                "67cm"
+            ],
+            [
+                "29cm",
+                "29cm",
+                "29cm",
+                "30cm",
+                "30cm",
+                "31cm"
+            ],
+            [
+                "88cm",
+                "93cm",
+                "95cm",
+                "100cm",
+                "106cm",
+                "113cm"
+            ],
+            [
+                "21cm",
+                "22cm",
+                "22cm",
+                "23cm",
+                "24cm",
+                "25cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "ボトムス",
+        "ジャージ",
+        "パンツ",
+        "サッカー",
+        "フットサル",
+        "代表",
+        "ティロ",
+        "スペイン代表",
+        "エアロレディ",
+        "リサイクル素材一部使用",
+        "サッカーウェア・服",
+        "フットサルウェア・服",
+        "KLR11"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IP6411/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "サッカー",
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "代表",
+        "スペイン代表 ティロ 24 コンペティション トレーニングジャージー"
+    ],
+    "category": "メンズ サッカー",
+    "product name": "スペイン代表 ティロ 24 コンペティション トレーニングジャージー",
+    "product price": "6,600",
+    "available sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IP/IP6411/z-IP6411-on_model-standard_view-JYN5waZjei.jpg",
+        "https://shop.adidas.jp/photo/IP/IP6411/z-IP6411-on_model-back_view-40J2nzM6mU.jpg",
+        "https://shop.adidas.jp/photo/IP/IP6411/z-IP6411-on_model-walking_view-Ck8Nd41YqS.jpg",
+        "https://shop.adidas.jp/photo/IP/IP6411/z-IP6411-on_model-standard_outfit_view-of8aDxKFPB.jpg",
+        "https://shop.adidas.jp/photo/IP/IP6411/z-IP6411-3d_torso-front_center_view-ElcNfcBpfV.jpg",
+        "https://shop.adidas.jp/photo/IP/IP6411/z-IP6411-3d_torso-back_center_view-rkbw5t9CZD.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "スペイン代表 ティロ 24 コンペティション トレーニングジャージー",
+    "general description": "スペイン代表スタイルのこのジャージーを着て、トレーニングに励もう。ピッチを縦横無尽に走り回れる、試合前の集中練習に向けて作られた、スリムなデザインの汗を素早くコントロールするAEROREADYシリーズのウェア。スキルを磨くときや、フィットネスの向上に励むときにも、このシャツがモチベーションを上げてくれる。\n\nこの製品にはリサイクル素材を100%使用。製造された製品の素材をリユースすることは、ゴミの量、限りある資源への依存、そしてアディダス製品のフットプリントを減らすことにつながる。",
+    "general description itemized": [
+        "スリムフィット",
+        "リブ仕上げのクルーネック",
+        "ポリエステル100%（インターロック）",
+        "AEROREADY",
+        "サイド、袖、肩にメッシュインサート",
+        "スペイン代表エンブレムを熱転写",
+        "商品番号：IP6411",
+        "色：ヘイローミント/レイレッド",
+        "生産国：Vietnam"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "ウエスト",
+            "ラグラン袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            [
+                "93cm",
+                "98cm",
+                "100cm",
+                "105cm",
+                "111cm",
+                "118cm"
+            ],
+            [
+                "72cm",
+                "73cm",
+                "73cm",
+                "74cm",
+                "76cm",
+                "77cm"
+            ],
+            [
+                "89cm",
+                "94cm",
+                "96cm",
+                "101cm",
+                "108cm",
+                "115cm"
+            ],
+            [
+                "36cm",
+                "37cm",
+                "37cm",
+                "38cm",
+                "40cm",
+                "42cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "サッカー",
+        "フットサル",
+        "代表",
+        "ティロ",
+        "半袖",
+        "スペイン代表",
+        "エアロレディ",
+        "リサイクル素材一部使用",
+        "サッカーウェア・服",
+        "フットサルウェア・服",
+        "KLR16"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IP9331/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "ユニセックス",
+        "サッカー",
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "代表",
+        "スペイン代表 24 ホームユニフォーム"
+    ],
+    "category": "サッカー",
+    "product name": "スペイン代表 24 ホームユニフォーム",
+    "product price": "13,200",
+    "available sizes": [
+        "XS",
+        "M",
+        "XL",
+        "2XL",
+        "4XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IP/IP9331/z-IP9331-on_model-standard_view-DrmE2p14un.jpg",
+        "https://shop.adidas.jp/photo/IP/IP9331/z-IP9331-on_model-back_view-QKvieKMJ9W.jpg",
+        "https://shop.adidas.jp/photo/IP/IP9331/z-IP9331-on_model-walking_view-5PfOXzX6j2.jpg",
+        "https://shop.adidas.jp/photo/IP/IP9331/z-IP9331-3d_torso-front_center_view-VHgYTxUqk9.jpg",
+        "https://shop.adidas.jp/photo/IP/IP9331/z-IP9331-3d_torso-back_center_view-6niaBhaBNl.jpg",
+        "https://shop.adidas.jp/photo/IP/IP9331/z-IP9331-on_model-detail_view_1-EcvG2r6sGu.jpg",
+        "https://shop.adidas.jp/photo/IP/IP9331/z-IP9331-on_model-detail_view_2-3SDvzLMeX2.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "スペイン代表 24 ホームユニフォーム",
+    "general description": "ルーツは深い。美しいスペイン国花と、リズミカルに打ち寄せる波にインスパイアされた、同系色で描いたグラフィックがひときわ目を引くスペイン代表ジャージー。サポーターの快適さとプライドを追求して、吸湿性に優れたAEROREADYを採用し、ウーブンエンブレムとカーネーションのサインオフをあしらっている。\n\nこの製品にはリサイクル素材を100%使用。製造された製品の素材をリユースすることで、ゴミの量、限りある資源への依存、そしてアディダス製品のフットプリントを減らすことにつながる。",
+    "general description itemized": [
+        "スリムフィット",
+        "リブ仕上げのクルーネック",
+        "ポリエステル100%（インターロック）",
+        "AEROREADY",
+        "脇の下、サイド、背面下部にメッシュパネル",
+        "スペイン代表のウーブンエンブレム",
+        "後ろ襟の下にカーネーションのアートワーク",
+        "商品番号：IP9331",
+        "色：ベタースカーレット"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "ラグラン袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "M",
+                "XL",
+                "2XL"
+            ],
+            [
+                "91cm",
+                "97cm",
+                "105cm",
+                "113cm"
+            ],
+            [
+                "69cm",
+                "71cm",
+                "73cm",
+                "75cm"
+            ],
+            [
+                "35cm",
+                "37cm",
+                "38cm",
+                "39cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "サッカー",
+        "フットサル",
+        "代表",
+        "半袖",
+        "スペイン代表",
+        "エアロレディ",
+        "リサイクル素材一部使用",
+        "サッカーウェア・服",
+        "フットサルウェア・服",
+        "KOW75"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IP9333/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "ユニセックス",
+        "サッカー",
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "代表",
+        "スペイン代表 2024 ホーム オーセンティックユニフォーム"
+    ],
+    "category": "サッカー",
+    "product name": "スペイン代表 2024 ホーム オーセンティックユニフォーム",
+    "product price": "17,600",
+    "available sizes": [
+        "XS",
+        "M",
+        "XL",
+        "2XL",
+        "4XL",
+        "6XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IP/IP9333/z-IP9333-marketing-heromrktng_view_1-aCXU2Sqelu.jpg",
+        "https://shop.adidas.jp/photo/IP/IP9333/z-IP9333-on_model-standard_view-SaAOBXjF8u.jpg",
+        "https://shop.adidas.jp/photo/IP/IP9333/z-IP9333-marketing-heromrktng_view_3-U2IMvD8HNh.jpg",
+        "https://shop.adidas.jp/photo/IP/IP9333/z-IP9333-marketing-heromrktng_view_4-UucJL09c8V.jpg",
+        "https://shop.adidas.jp/photo/IP/IP9333/z-IP9333-marketing-heromrktng_view_5-lIYQyoq01h.jpg",
+        "https://shop.adidas.jp/photo/IP/IP9333/z-IP9333-marketing-heromrktng_view_6-OYwCUeRSbX.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/photo/IP/IP9333/z-IP9333-on_model-standard_outfit_view-Hu9uzWzyCC.jpg",
+        "https://shop.adidas.jp/photo/IP/IP9333/z-IP9333-3d_torso-front_center_view-kZn1uYqJdF.jpg",
+        "https://shop.adidas.jp/photo/IP/IP9333/z-IP9333-3d_torso-back_center_view-x3QccEXSfu.jpg",
+        "https://shop.adidas.jp/photo/IP/IP9333/z-IP9333-on_model-detail_view_1-ywqUlGNtPa.jpg",
+        "https://shop.adidas.jp/photo/IP/IP9333/z-IP9333-on_model-detail_view_2-IdAYqO4L30.jpg",
+        "https://shop.adidas.jp/photo/IP/IP9333/z-IP9333-marketing-descmrktng_view_1-8iqHrJgVDl.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "スペイン代表 2024 ホーム オーセンティックユニフォーム",
+    "general description": "素晴らしいレガシーを讃える、斬新なルックス。目を見張るような試合展開をもたらすべく、ハイテク機能と大胆なデザインを融合させた、プロ選手のためのオーセンティックコレクション。スペインサッカーの歴史に敬意を表して生まれた、このスペイン代表 2024 ホーム オーセンティックユニフォームは、長い伝統を大切に継承しつつ、未来に一歩踏み出すチームを象徴するかのようなデザイン。\n\n試合用に作られたスタイリッシュで機能的なジャージーを纏って、\"ラ・フリア・ロハ\"に大きな声援を送ろう。ソフトな肌触りの生地が快適な着心地を提供し、イノベーティブなディテールが体温を一定に保つのに貢献。通気を促すadidas HEAT. RDY技術を採り入れた先進的素材が、身体が熱くなり過ぎないように清涼感をもたらすと同時に、汗を逃がしてくれる。\n\nリサイクル素材を選択することで、既に製造された製品の素材を再利用することができ、それがゴミの削減と、限りある資源への依存の軽減につながる。",
+    "general description itemized": [
+        "スリムフィット",
+        "クルーネック",
+        "ポリエステル100%（シングルジャージー）",
+        "両サイドと背面下部：ポリエステル100%（エンジニアード）",
+        "HEAT. RDY",
+        "袖にメッシュインサート",
+        "スペイン代表エンブレムを熱転写",
+        "バックネックに連盟のアートワーク",
+        "商品番号：IP9333",
+        "色：ベタースカーレット"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "ラグラン袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "M",
+                "XL",
+                "2XL"
+            ],
+            [
+                "87cm",
+                "93cm",
+                "101cm",
+                "109cm"
+            ],
+            [
+                "70cm",
+                "72cm",
+                "74cm",
+                "76cm"
+            ],
+            [
+                "34cm",
+                "36cm",
+                "37cm",
+                "38cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "サッカー",
+        "フットサル",
+        "代表",
+        "半袖",
+        "スペイン代表",
+        "ヒートレディ",
+        "リサイクル素材一部使用",
+        "サッカーウェア・服",
+        "フットサルウェア・服",
+        "KOW77"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IP8279/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "ユニセックス",
+        "サッカー",
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "代表",
+        "コロンビア代表 24 ホームユニフォーム"
+    ],
+    "category": "サッカー",
+    "product name": "コロンビア代表 24 ホームユニフォーム",
+    "product price": "13,200",
+    "available sizes": [
+        "XS",
+        "M",
+        "XL",
+        "2XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IP/IP8279/z-IP8279-on_model-standard_view-yeuEszA71Y.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8279/z-IP8279-on_model-back_view-ar3guoiUU2.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8279/z-IP8279-3d_torso-front_center_view-q7lzje0K10.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8279/z-IP8279-3d_torso-back_center_view-biUJkMVyHV.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8279/z-IP8279-on_model-detail_view_1-CaeBYdFhJh.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8279/z-IP8279-on_model-detail_view_2-yyYjET2WL9.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8279/z-IP8279-on_model-detail_view_5-n6TWNYyFc1.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "コロンビア代表 24 ホームユニフォーム",
+    "general description": "新たな高みを目指して。コロンビアの伝説のフェニックスの羽からインスピレーションを得たデザインが特徴の、コロンビアサッカーの明るい未来を予感させる、代表ユニフォーム。サポーターたちが快適に声援を送れるように、吸湿性を発揮するAEROREADYと通気性を高めるメッシュパネルを用いた、スリムなシルエットのシャツ。チームの誇りが詰まった新しいエンブレムのウーブンバージョンが、デザインをまとめている。\n\nこの製品は100%リサイクル素材で作られている。製造された製品の素材をリユースすることで、ゴミの量、限りある資源への依存、そしてアディダス製品のフットプリントを減らすことにつながる。",
+    "general description itemized": [
+        "スリムフィット",
+        "リブ仕上げのクルーネック",
+        "ポリエステル100%（インターロック）",
+        "AEROREADY",
+        "サイドと脇の下にメッシュパネル",
+        "コロンビア代表のウーブンエンブレム",
+        "後ろ襟の下に\"Colombia\"の文字",
+        "商品番号：IP8279",
+        "色：インパクトイエロー"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "ウエスト",
+            "ラグラン袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "M",
+                "XL",
+                "2XL"
+            ],
+            [
+                "91cm",
+                "97cm",
+                "105cm",
+                "113cm"
+            ],
+            [
+                "69cm",
+                "71cm",
+                "73cm",
+                "75cm"
+            ],
+            [
+                "87cm",
+                "93cm",
+                "101cm",
+                "109cm"
+            ],
+            [
+                "35cm",
+                "37cm",
+                "38cm",
+                "39cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "サッカー",
+        "フットサル",
+        "代表",
+        "半袖",
+        "コロンビア代表",
+        "エアロレディ",
+        "リサイクル素材一部使用",
+        "サッカーウェア・服",
+        "フットサルウェア・服",
+        "GZO00"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IP8384/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "ユニセックス",
+        "サッカー",
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "代表",
+        "アルゼンチン代表 2024 アウェイ オーセンティックユニフォーム"
+    ],
+    "category": "サッカー",
+    "product name": "アルゼンチン代表 2024 アウェイ オーセンティックユニフォーム",
+    "product price": "17,600",
+    "available sizes": [
+        "XS",
+        "M",
+        "XL",
+        "2XL",
+        "4XL",
+        "6XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IP/IP8384/z-IP8384-on_model-standard_view-vD2nNt16gd.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8384/z-IP8384-on_model-back_view-0d7lLCCmo0.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8384/z-IP8384-on_model-walking_view-CGLXQqjtyw.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8384/z-IP8384-3d_torso-front_center_view-3JSSkcnqM8.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8384/z-IP8384-3d_torso-back_center_view-G0o6HA1cnd.jpg",
+        "https://shop.adidas.jp/photo/IP/IP8384/z-IP8384-on_model-detail_view_1-CxQ6XFo3n4.jpg",
+        "https://shop.adidas.jp/static/images/tools/itemCard_dummy.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "アルゼンチン代表 2024 アウェイ オーセンティックユニフォーム",
+    "general description": "素晴らしいレガシーを讃える、斬新なルックス。目を見張るような試合展開をもたらすべく、ハイテク機能と大胆なデザインを融合させた、プロ選手のためのオーセンティックコレクション。アルゼンチンの音楽とカルチャーからのインスピレーションとその魅力をデザインに注入し、伝統に忠実でありながら未来を見据えたユニフォームが完成した。\n\nアルゼンチン代表 2024 アウェイ オーセンティックユニフォームは、身に着けるだけで、世界チャンピオンの栄冠を掴んだあの時のエネルギーが感じられる。柔らかな生地には、ドライな着心地を保つHEAT. RDYテクノロジーと吸湿性を発揮する性能が備わっている。驚くほど軽く通気性に優れた構造が、試合やトレーニングの間も爽快なコンディションをキープ。\n\nこの製品には、リサイクル素材を40%以上使用。既に製造された製品の素材を再利用することが、ゴミの削減と限りある資源への依存の軽減につながる。",
+    "general description itemized": [
+        "スリムフィット",
+        "Vネック",
+        "ポリエステル100%（シングルジャージー）",
+        "両サイドと背面下部：ポリエステル100%（エンジニアード）",
+        "HEAT. RDY",
+        "袖にメッシュインサート",
+        "アルゼンチン代表エンブレムを熱転写",
+        "バックネックに連盟のアートワーク",
+        "商品番号：IP8384",
+        "色：ルシッドブルー"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "ラグラン袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "M",
+                "XL",
+                "2XL"
+            ],
+            [
+                "87cm",
+                "93cm",
+                "101cm",
+                "109cm"
+            ],
+            [
+                "70cm",
+                "72cm",
+                "74cm",
+                "76cm"
+            ],
+            [
+                "34cm",
+                "36cm",
+                "37cm",
+                "38cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "ユニフォーム",
+        "サッカー",
+        "フットサル",
+        "代表",
+        "半袖",
+        "アルゼンチン代表",
+        "ヒートレディ",
+        "リサイクル素材一部使用",
+        "サッカーウェア・服",
+        "フットサルウェア・服",
+        "ITZ54"
+    ]
+}
+
+{
+    "product_url": "https://shop.adidas.jp/products/IR8010/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "ウェア・服",
+        "トップス",
+        "Tシャツ",
+        "オリジナルス",
+        "アディカラー",
+        "アディカラー トレフォイル 半袖Tシャツ"
+    ],
+    "category": "メンズ オリジナルス",
+    "product name": "アディカラー トレフォイル 半袖Tシャツ",
+    "product price": "4,950",
+    "available sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IR/IR8010/z-IR8010-on_model-standard_view-wzceNIbJKd.jpg",
+        "https://shop.adidas.jp/photo/IR/IR8010/z-IR8010-on_model-back_view-ezzWubO0d1.jpg",
+        "https://shop.adidas.jp/photo/IR/IR8010/z-IR8010-on_model-walking_view-NFWcYWyJSe.jpg",
+        "https://shop.adidas.jp/photo/IR/IR8010/z-IR8010-3d_torso-front_center_view-cjBHZH90Zo.jpg",
+        "https://shop.adidas.jp/photo/IR/IR8010/z-IR8010-on_model-detail_view_1-Pca9XJV4Sc.jpg",
+        "https://shop.adidas.jp/photo/IR/IR8010/z-IR8010-on_model-detail_view_2-iP0aU41xUe.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "アディカラー トレフォイル 半袖Tシャツ",
+    "general description": "生まれ変わったクラシックアイテム。このアディダスTシャツは、カジュアルスタイルにコンテンポラリーなひねりを加えてアップデート。正面に、スポーツブランドの証しとなるアイコニックなトレフォイルロゴをスクリーンプリントしている。デイリーウェアにぴったりな、ソフトなコットン素材を用いたクラシックなフィット感のエフォートレスなルックスだから、どんなコーディネートにも欠かせない。\n\nこの製品に使われているコットンは、ベターコットンを通して供給されている。ベターコットンの調達は、「マスバランス」と呼ばれる生産物流管理モデルを通しており、最終製品までの過程を物理的に辿れるわけではない。\n\n詳細はこちら：https://bettercotton.org/who-we-are/our-logo/",
+    "general description itemized": [
+        "レギュラーフィット",
+        "リブ仕上げのクルーネック",
+        "綿100%（シングルジャージー）",
+        "素材は、ベターコットンを通して、マスバランスと呼ばれるシステム経由で調達しているため、この製品には実際にベターコットンが使用されていない可能性があります。",
+        "商品番号：IR8010",
+        "色：ブルーバード"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            [
+                "95cm",
+                "98cm",
+                "103cm",
+                "105cm",
+                "110cm",
+                "116cm",
+                "123cm"
+            ],
+            [
+                "68cm",
+                "69cm",
+                "70cm",
+                "70cm",
+                "71cm",
+                "73cm",
+                "74cm"
+            ],
+            [
+                "23cm",
+                "23cm",
+                "24cm",
+                "24cm",
+                "25cm",
+                "26cm",
+                "27cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "Tシャツ",
+        "オリジナルス",
+        "アディカラー",
+        "半袖",
+        "ベターコットン",
+        "KMB09"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IU2364/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "ウェア・服",
+        "トップス",
+        "Tシャツ",
+        "オリジナルス",
+        "アディカラー",
+        "アディカラー トレフォイル 半袖Tシャツ"
+    ],
+    "category": "メンズ オリジナルス",
+    "product name": "アディカラー トレフォイル 半袖Tシャツ",
+    "product price": "4,950",
+    "available sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IU/IU2364/z-IU2364-on_model-standard_view-YrwT3AaFUz.jpg",
+        "https://shop.adidas.jp/photo/IU/IU2364/z-IU2364-on_model-back_view-DuyxlnoXJz.jpg",
+        "https://shop.adidas.jp/photo/IU/IU2364/z-IU2364-on_model-walking_view-GIM0L0pIVS.jpg",
+        "https://shop.adidas.jp/photo/IU/IU2364/z-IU2364-3d_torso-front_center_view-mlM5FjQxJW.jpg",
+        "https://shop.adidas.jp/photo/IU/IU2364/z-IU2364-on_model-detail_view_1-dbY5whMs3d.jpg",
+        "https://shop.adidas.jp/photo/IU/IU2364/z-IU2364-on_model-detail_view_2-UylEjFDQkB.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "アディカラー トレフォイル 半袖Tシャツ",
+    "general description": "生まれ変わったクラシックアイテム。このアディダスTシャツは、カジュアルスタイルにコンテンポラリーなひねりを加えてアップデート。正面に、スポーツブランドの証しとなるアイコニックなトレフォイルロゴをスクリーンプリントしている。デイリーウェアにぴったりな、ソフトなコットン素材を用いたクラシックなフィット感のエフォートレスなルックスだから、どんなコーディネートにも欠かせない。\n\nこの製品に使われているコットンは、ベターコットンを通して供給されている。ベターコットンの調達は、「マスバランス」と呼ばれる生産物流管理モデルを通しており、最終製品までの過程を物理的に辿れるわけではない。\n\n詳細はこちら：https://bettercotton.org/who-we-are/our-logo/",
+    "general description itemized": [
+        "レギュラーフィット",
+        "リブ仕上げのクルーネック",
+        "綿100%（シングルジャージー）",
+        "素材は、ベターコットンを通して、マスバランスと呼ばれるシステム経由で調達しているため、この製品には実際にベターコットンが使用されていない可能性があります。",
+        "商品番号：IU2364",
+        "色：ブラック",
+        "生産国：Pakistan"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            [
+                "95cm",
+                "98cm",
+                "103cm",
+                "105cm",
+                "110cm",
+                "116cm",
+                "123cm"
+            ],
+            [
+                "68cm",
+                "69cm",
+                "70cm",
+                "70cm",
+                "71cm",
+                "73cm",
+                "74cm"
+            ],
+            [
+                "23cm",
+                "23cm",
+                "24cm",
+                "24cm",
+                "25cm",
+                "26cm",
+                "27cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "Tシャツ",
+        "オリジナルス",
+        "アディカラー",
+        "半袖",
+        "ベターコットン",
+        "KMB09"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IU2337/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "ウェア・服",
+        "ボトムス",
+        "ハーフパンツ",
+        "オリジナルス",
+        "アディカラー",
+        "アディカラー スリーストライプス ショーツ"
+    ],
+    "category": "メンズ オリジナルス",
+    "product name": "アディカラー スリーストライプス ショーツ",
+    "product price": "7,150",
+    "available sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IU/IU2337/z-IU2337-on_model-standard_view-OVNz8hUnWU.jpg",
+        "https://shop.adidas.jp/photo/IU/IU2337/z-IU2337-on_model-back_view-tFq8EH6OIW.jpg",
+        "https://shop.adidas.jp/photo/IU/IU2337/z-IU2337-on_model-walking_view-lzDLgdAvyO.jpg",
+        "https://shop.adidas.jp/photo/IU/IU2337/z-IU2337-3d_torso-front_center_view-8uvAfOAKen.jpg",
+        "https://shop.adidas.jp/photo/IU/IU2337/z-IU2337-on_model-detail_view_1-ZmCCaw5y3h.jpg",
+        "https://shop.adidas.jp/photo/IU/IU2337/z-IU2337-on_model-detail_view_2-WmNnAwRa2j.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "アディカラー スリーストライプス ショーツ",
+    "general description": "これぞクラシックスタイルの新境地。お馴染みのアディダスショーツのシルエットに、新鮮なディテールを加えて一新。ソフトなフレンチテリー素材が一日中快適な着心地をもたらす。サイドのスリーストライプスと同様、刺しゅうのトレフォイルがアディダスのDNAを受け継いでいる。\n\nこの製品に使われているコットンは、ベターコットンを通して供給されている。ベターコットンは「マスバランス」と呼ばれる生産物流管理モデルを通して調達されているため、最終製品までの過程を物理的に辿れるわけではない。\n\n詳細はこちら：https://bettercotton.org/who-we-are/our-logo/",
+    "general description itemized": [
+        "レギュラーフィット",
+        "ドローコードが付いた伸縮性のウエスト",
+        "綿100%（フレンチテリー［裏毛］）",
+        "両サイドにジップポケット",
+        "素材は、ベターコットンを通して、マスバランスと呼ばれるシステム経由で調達しているため、この製品には実際にベターコットンが使用されていない可能性があります。",
+        "商品番号：IU2337",
+        "色：ブラック",
+        "生産国：Pakistan"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "ウエスト",
+            "股下",
+            "股上",
+            "ヒップ",
+            "裾回り"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            [
+                "64cm",
+                "67cm",
+                "72cm",
+                "74cm",
+                "79cm",
+                "86cm",
+                "93cm"
+            ],
+            [
+                "25cm",
+                "25cm",
+                "25cm",
+                "25cm",
+                "25cm",
+                "25cm",
+                "25cm"
+            ],
+            [
+                "31cm",
+                "31cm",
+                "31cm",
+                "31cm",
+                "32cm",
+                "32cm",
+                "33cm"
+            ],
+            [
+                "95cm",
+                "98cm",
+                "103cm",
+                "105cm",
+                "110cm",
+                "116cm",
+                "123cm"
+            ],
+            [
+                "58cm",
+                "59cm",
+                "62cm",
+                "63cm",
+                "66cm",
+                "69cm",
+                "73cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "ボトムス",
+        "ハーフパンツ",
+        "オリジナルス",
+        "アディカラー",
+        "スリー ストライプス",
+        "ベターコットン",
+        "KMB12"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IU2340/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "ウェア・服",
+        "ボトムス",
+        "ハーフパンツ",
+        "オリジナルス",
+        "アディカラー",
+        "アディカラー スリーストライプス ショーツ"
+    ],
+    "category": "メンズ オリジナルス",
+    "product name": "アディカラー スリーストライプス ショーツ",
+    "product price": "7,150",
+    "available sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IU/IU2340/z-IU2340-on_model-standard_view-IvfYLCRrPE.jpg",
+        "https://shop.adidas.jp/photo/IU/IU2340/z-IU2340-on_model-back_view-4uVDVVyuKb.jpg",
+        "https://shop.adidas.jp/photo/IU/IU2340/z-IU2340-on_model-walking_view-OXQ2wSXmRZ.jpg",
+        "https://shop.adidas.jp/photo/IU/IU2340/z-IU2340-3d_torso-front_center_view-QIawnzJbpf.jpg",
+        "https://shop.adidas.jp/photo/IU/IU2340/z-IU2340-on_model-detail_view_1-wf0vjJ29mZ.jpg",
+        "https://shop.adidas.jp/photo/IU/IU2340/z-IU2340-on_model-detail_view_2-CbSBn3KMw4.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "アディカラー スリーストライプス ショーツ",
+    "general description": "これぞクラシックスタイルの新境地。お馴染みのアディダスショーツのシルエットに、新鮮なディテールを加えて一新。ソフトなフレンチテリー素材が一日中快適な着心地をもたらす。サイドのスリーストライプスと同様、刺しゅうのトレフォイルがアディダスのDNAを受け継いでいる。\n\nこの製品に使われているコットンは、ベターコットンを通して供給されている。ベターコットンは「マスバランス」と呼ばれる生産物流管理モデルを通して調達されているため、最終製品までの過程を物理的に辿れるわけではない。\n\n詳細はこちら：https://bettercotton.org/who-we-are/our-logo/",
+    "general description itemized": [
+        "レギュラーフィット",
+        "ドローコードが付いた伸縮性のウエスト",
+        "綿100%（フレンチテリー［裏毛］）",
+        "両サイドにジップポケット",
+        "素材は、ベターコットンを通して、マスバランスと呼ばれるシステム経由で調達しているため、この製品には実際にベターコットンが使用されていない可能性があります。",
+        "商品番号：IU2340",
+        "色：ミディアムグレーヘザー"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "ウエスト",
+            "股下",
+            "股上",
+            "ヒップ",
+            "裾回り"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            [
+                "64cm",
+                "67cm",
+                "72cm",
+                "74cm",
+                "79cm",
+                "86cm",
+                "93cm"
+            ],
+            [
+                "25cm",
+                "25cm",
+                "25cm",
+                "25cm",
+                "25cm",
+                "25cm",
+                "25cm"
+            ],
+            [
+                "31cm",
+                "31cm",
+                "31cm",
+                "31cm",
+                "32cm",
+                "32cm",
+                "33cm"
+            ],
+            [
+                "95cm",
+                "98cm",
+                "103cm",
+                "105cm",
+                "110cm",
+                "116cm",
+                "123cm"
+            ],
+            [
+                "58cm",
+                "59cm",
+                "62cm",
+                "63cm",
+                "66cm",
+                "69cm",
+                "73cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "ボトムス",
+        "ハーフパンツ",
+        "オリジナルス",
+        "アディカラー",
+        "スリー ストライプス",
+        "ベターコットン",
+        "KMB12"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IU2370/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "ウェア・服",
+        "ボトムス",
+        "ハーフパンツ",
+        "オリジナルス",
+        "アディカラー",
+        "アディカラー アウトライン トレフォイルショーツ"
+    ],
+    "category": "メンズ オリジナルス",
+    "product name": "アディカラー アウトライン トレフォイルショーツ",
+    "product price": "9,350",
+    "available sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IU/IU2370/z-IU2370-on_model-standard_view-5RrR9NMl5H.jpg",
+        "https://shop.adidas.jp/photo/IU/IU2370/z-IU2370-on_model-back_view-FqEitGHWGI.jpg",
+        "https://shop.adidas.jp/photo/IU/IU2370/z-IU2370-on_model-walking_view-XGqXcr56x5.jpg",
+        "https://shop.adidas.jp/photo/IU/IU2370/z-IU2370-3d_torso-front_center_view-crIBKAHzWe.jpg",
+        "https://shop.adidas.jp/photo/IU/IU2370/z-IU2370-on_model-detail_view_1-p4fi6DQRC7.jpg",
+        "https://shop.adidas.jp/photo/IU/IU2370/z-IU2370-on_model-detail_view_2-CGT9rjXmTp.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "アディカラー アウトライン トレフォイルショーツ",
+    "general description": "ワードローブの新定番になりそうなクラシックアイテム。快適さは何よりも大事だけど、スタイルだって外したくない。そんなときは、このアディダスショーツがおすすめ。ダメージ加工を施したルーズフィットの作りがこなれた雰囲気の、カジュアルなデイリーウェア。ソフトなフレンチテリー素材を使用し、家でくつろぐときも、用事で出かけるときも快適な着心地をもたらしてくれる。トレフォイルの輪郭だけあしらい、ブランドのシンボルに新鮮味を加えている。\n\nこの製品に使われているコットンは、ベターコットンを通して供給されている。ベターコットンは「マスバランス」と呼ばれる生産物流管理モデルを通して調達されているため、最終製品までの過程を物理的に辿れるわけではない。\n\n詳細はこちら：https://bettercotton.org/who-we-are/our-logo/",
+    "general description itemized": [
+        "ルーズフィット",
+        "ドローコードが付いた伸縮性のウエスト",
+        "綿100%（フレンチテリー［裏毛］）",
+        "両サイドにポケット",
+        "背面にポケット",
+        "素材は、ベターコットンを通して、マスバランスと呼ばれるシステム経由で調達しているため、この製品には実際にベターコットンが使用されていない可能性があります。",
+        "商品番号：IU2370",
+        "色：ブラック/ホワイト",
+        "生産国：Indonesia"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "ウエスト",
+            "股下",
+            "股上",
+            "ヒップ",
+            "裾回り"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            [
+                "64cm",
+                "67cm",
+                "72cm",
+                "74cm",
+                "79cm",
+                "86cm",
+                "93cm"
+            ],
+            [
+                "25cm",
+                "25cm",
+                "25cm",
+                "25cm",
+                "25cm",
+                "25cm",
+                "25cm"
+            ],
+            [
+                "32cm",
+                "32cm",
+                "33cm",
+                "33cm",
+                "33cm",
+                "34cm",
+                "35cm"
+            ],
+            [
+                "100cm",
+                "103cm",
+                "108cm",
+                "110cm",
+                "115cm",
+                "121cm",
+                "128cm"
+            ],
+            [
+                "60cm",
+                "61cm",
+                "64cm",
+                "65cm",
+                "68cm",
+                "71cm",
+                "75cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "ボトムス",
+        "ハーフパンツ",
+        "オリジナルス",
+        "アディカラー",
+        "ベターコットン",
+        "KMB18"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IR9394/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "ウェア・服",
+        "トップス",
+        "ポロシャツ",
+        "オリジナルス",
+        "スプリングコレクション",
+        "プレミアムポロシャツ"
+    ],
+    "category": "メンズ オリジナルス",
+    "product name": "プレミアムポロシャツ",
+    "product price": "12,100",
+    "available sizes": [
+        "2XS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IR/IR9394/z-IR9394-on_model-standard_view-ATl9Qivttn.jpg",
+        "https://shop.adidas.jp/photo/IR/IR9394/z-IR9394-on_model-back_view-hjicGjwYjS.jpg",
+        "https://shop.adidas.jp/photo/IR/IR9394/z-IR9394-on_model-walking_view-IP9Qd2JQvl.jpg",
+        "https://shop.adidas.jp/photo/IR/IR9394/z-IR9394-3d_torso-front_center_view-XLn2m6E5yL.jpg",
+        "https://shop.adidas.jp/photo/IR/IR9394/z-IR9394-on_model-detail_view_1-kfJBpvMbmm.jpg",
+        "https://shop.adidas.jp/photo/IR/IR9394/z-IR9394-on_model-detail_view_2-kQ6FGNmas2.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "プレミアムポロシャツ",
+    "general description": "このポロシャツは、ピッチを離れたアスリートの雰囲気を漂わせるタウンユースのウェア。軽いジャカード織りの生地が、涼しく快適な着心地をもたらし、アディダスの伝統をさりげなく感じさせる。胸のトレフォイル刺しゅうや、袖のスリーストライプスなどのシグネチャーディテールで、スポーティーなスタイルにひねりを加えている。\n\nリサイクル製品を選択することで、すでに製造された素材を再利用することができ、ゴミの削減につながる。また、再生可能素材を選択することも、限りある資源への依存を減らすことになる。この製品は、リサイクル素材や再生可能素材をブレンドしたものを70%以上使用している。",
+    "general description itemized": [
+        "レギュラーフィット",
+        "ポロ襟 / ジップクロージャー",
+        "ポリエステル61% / 綿35% / ポリウレタン4% （ジャカード）",
+        "リサイクル・再生可能素材を20%以上使用",
+        "商品番号：IR9394",
+        "色：プリラブドインク"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [
+                "2XS",
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            [
+                "90cm",
+                "95cm",
+                "98cm",
+                "103cm",
+                "105cm",
+                "110cm",
+                "116cm",
+                "123cm"
+            ],
+            [
+                "68cm",
+                "68cm",
+                "69cm",
+                "70cm",
+                "70cm",
+                "71cm",
+                "73cm",
+                "74cm"
+            ],
+            [
+                "22cm",
+                "23cm",
+                "23cm",
+                "24cm",
+                "24cm",
+                "25cm",
+                "26cm",
+                "27cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "ポロシャツ",
+        "オリジナルス",
+        "スプリングコレクション",
+        "半袖",
+        "リサイクル素材と再生可能素材",
+        "KMC36"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IU0209/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "ウェア・服",
+        "トップス",
+        "ポロシャツ",
+        "オリジナルス",
+        "スプリングコレクション",
+        "プレミアムポロシャツ"
+    ],
+    "category": "メンズ オリジナルス",
+    "product name": "プレミアムポロシャツ",
+    "product price": "12,100",
+    "available sizes": [
+        "2XS",
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IU/IU0209/z-IU0209-on_model-standard_view-sdTeGu2JaJ.jpg",
+        "https://shop.adidas.jp/photo/IU/IU0209/z-IU0209-on_model-back_view-XJWQgl9j9k.jpg",
+        "https://shop.adidas.jp/photo/IU/IU0209/z-IU0209-on_model-walking_view-Jt5qu1qaec.jpg",
+        "https://shop.adidas.jp/photo/IU/IU0209/z-IU0209-3d_torso-front_center_view-H6HTx7r6PO.jpg",
+        "https://shop.adidas.jp/photo/IU/IU0209/z-IU0209-on_model-detail_view_1-Mrdz0dkacy.jpg",
+        "https://shop.adidas.jp/photo/IU/IU0209/z-IU0209-on_model-detail_view_2-24wlTJyJhW.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "プレミアムポロシャツ",
+    "general description": "このポロシャツは、ピッチを離れたアスリートの雰囲気を漂わせるタウンユースのウェア。軽いジャカード織りの生地が、涼しく快適な着心地をもたらし、アディダスの伝統をさりげなく感じさせる。胸のトレフォイル刺しゅうや、袖のスリーストライプスなどのシグネチャーディテールで、スポーティーなスタイルにひねりを加えている。\n\nリサイクル製品を選択することで、すでに製造された素材を再利用することができ、ゴミの削減につながる。また、再生可能素材を選択することも、限りある資源への依存を減らすことになる。この製品は、リサイクル素材や再生可能素材をブレンドしたものを70%以上使用している。",
+    "general description itemized": [
+        "レギュラーフィット",
+        "ポロ襟 / ジップクロージャー",
+        "ポリエステル61% / 綿35% / ポリウレタン4% （ジャカード）",
+        "リサイクル・再生可能素材を20%以上使用",
+        "商品番号：IU0209",
+        "色：ワンダーホワイト"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [
+                "2XS",
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            [
+                "90cm",
+                "95cm",
+                "98cm",
+                "103cm",
+                "105cm",
+                "110cm",
+                "116cm",
+                "123cm"
+            ],
+            [
+                "68cm",
+                "68cm",
+                "69cm",
+                "70cm",
+                "70cm",
+                "71cm",
+                "73cm",
+                "74cm"
+            ],
+            [
+                "22cm",
+                "23cm",
+                "23cm",
+                "24cm",
+                "24cm",
+                "25cm",
+                "26cm",
+                "27cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "ポロシャツ",
+        "オリジナルス",
+        "スプリングコレクション",
+        "半袖",
+        "リサイクル素材と再生可能素材",
+        "KMC36"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IR9393/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "ウェア・服",
+        "ボトムス",
+        "ハーフパンツ",
+        "オリジナルス",
+        "アディダス プレミアム Ref ショーツ"
+    ],
+    "category": "メンズ オリジナルス",
+    "product name": "アディダス プレミアム REF ショーツ",
+    "product price": "14,300",
+    "available sizes": [
+        "28",
+        "30",
+        "32",
+        "33",
+        "34",
+        "35"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IR/IR9393/z-IR9393-on_model-standard_view-Jyt8kOA6k1.jpg",
+        "https://shop.adidas.jp/photo/IR/IR9393/z-IR9393-on_model-back_view-xkCAuHiJY5.jpg",
+        "https://shop.adidas.jp/photo/IR/IR9393/z-IR9393-on_model-walking_view-3O7bbUJBf6.jpg",
+        "https://shop.adidas.jp/photo/IR/IR9393/z-IR9393-3d_torso-front_center_view-GGrLzPELNU.jpg",
+        "https://shop.adidas.jp/photo/IR/IR9393/z-IR9393-on_model-detail_view_1-P5Yy80fNyz.jpg",
+        "https://shop.adidas.jp/photo/IR/IR9393/z-IR9393-on_model-detail_view_2-uqyy2H0HS0.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "アディダス プレミアム REF ショーツ",
+    "general description": "混紡ツイルファブリックを使用した、柔軟で動きやすいアディダス ショーツ。シンプルでスタイリッシュなルックスで、背面には刺しゅうのトレフォイルをあしらっている。クラシックフィットのシルエットでフレッシュな雰囲気に仕上げている。",
+    "general description itemized": [
+        "レギュラーフィット",
+        "ホック式クロージャー",
+        "ポリエステル100%（ツイル）",
+        "両サイドにポケット",
+        "バックポケット",
+        "ウエストにベルトループ",
+        "商品番号：IR9393",
+        "色：プリラブドインク"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "ウエスト",
+            "股下",
+            "股上",
+            "ヒップ",
+            "裾回り"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                "30",
+                "32",
+                "33",
+                "34",
+                "35"
+            ],
+            [
+                "75cm",
+                "81cm",
+                "85cm",
+                "89cm",
+                "93cm"
+            ],
+            [
+                "21cm",
+                "21cm",
+                "21cm",
+                "21cm",
+                "21cm"
+            ],
+            [
+                "30cm",
+                "31cm",
+                "32cm",
+                "32cm",
+                "33cm"
+            ],
+            [
+                "93cm",
+                "99cm",
+                "103cm",
+                "107cm",
+                "111cm"
+            ],
+            [
+                "51cm",
+                "54cm",
+                "56cm",
+                "58cm",
+                "60cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "ボトムス",
+        "ハーフパンツ",
+        "オリジナルス",
+        "KMC38"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IU0211/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "ウェア・服",
+        "ボトムス",
+        "ハーフパンツ",
+        "オリジナルス",
+        "アディダス プレミアム Ref ショーツ"
+    ],
+    "category": "メンズ オリジナルス",
+    "product name": "アディダス プレミアム REF ショーツ",
+    "product price": "14,300",
+    "available sizes": [
+        "28",
+        "30",
+        "32",
+        "33",
+        "34",
+        "35"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IU/IU0211/z-IU0211-on_model-standard_view-KyyMi8Ozdi.jpg",
+        "https://shop.adidas.jp/photo/IU/IU0211/z-IU0211-on_model-back_view-DT5ChznNWj.jpg",
+        "https://shop.adidas.jp/photo/IU/IU0211/z-IU0211-on_model-walking_view-DW8Kh7nOYy.jpg",
+        "https://shop.adidas.jp/photo/IU/IU0211/z-IU0211-3d_torso-front_center_view-Lnw85rSmYH.jpg",
+        "https://shop.adidas.jp/photo/IU/IU0211/z-IU0211-on_model-detail_view_1-UiIxX3vO0E.jpg",
+        "https://shop.adidas.jp/photo/IU/IU0211/z-IU0211-on_model-detail_view_2-gvAuuKSyTq.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "アディダス プレミアム REF ショーツ",
+    "general description": "混紡ツイルファブリックを使用した、柔軟で動きやすいアディダス ショーツ。シンプルでスタイリッシュなルックスで、背面には刺しゅうのトレフォイルをあしらっている。クラシックフィットのシルエットでフレッシュな雰囲気に仕上げている。",
+    "general description itemized": [
+        "レギュラーフィット",
+        "ホック式クロージャー",
+        "ポリエステル100%（ツイル）",
+        "両サイドにポケット",
+        "バックポケット",
+        "ウエストにベルトループ",
+        "商品番号：IU0211",
+        "色：ワンダーホワイト"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "ウエスト",
+            "股下",
+            "股上",
+            "ヒップ",
+            "裾回り"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                "30",
+                "32",
+                "33",
+                "34",
+                "35"
+            ],
+            [
+                "75cm",
+                "81cm",
+                "85cm",
+                "89cm",
+                "93cm"
+            ],
+            [
+                "21cm",
+                "21cm",
+                "21cm",
+                "21cm",
+                "21cm"
+            ],
+            [
+                "30cm",
+                "31cm",
+                "32cm",
+                "32cm",
+                "33cm"
+            ],
+            [
+                "93cm",
+                "99cm",
+                "103cm",
+                "107cm",
+                "111cm"
+            ],
+            [
+                "51cm",
+                "54cm",
+                "56cm",
+                "58cm",
+                "60cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "ボトムス",
+        "ハーフパンツ",
+        "オリジナルス",
+        "KMC38"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IR9397/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "ウェア・服",
+        "アウター",
+        "ウインドブレーカー",
+        "オリジナルス",
+        "スプリングコレクション",
+        "アディダス プレミアム ウインドブレーカー"
+    ],
+    "category": "メンズ オリジナルス",
+    "product name": "アディダス プレミアム ウインドブレーカー",
+    "product price": "35,200",
+    "available sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IR/IR9397/z-IR9397-on_model-standard_view-o7qkCELub3.jpg",
+        "https://shop.adidas.jp/photo/IR/IR9397/z-IR9397-on_model-back_view-503Zgd8e9l.jpg",
+        "https://shop.adidas.jp/photo/IR/IR9397/z-IR9397-on_model-walking_view-hGZlKsqHnT.jpg",
+        "https://shop.adidas.jp/photo/IR/IR9397/z-IR9397-3d_torso-front_center_view-qly8nq5H2v.jpg",
+        "https://shop.adidas.jp/photo/IR/IR9397/z-IR9397-on_model-detail_view_1-5wiAqzfVoj.jpg",
+        "https://shop.adidas.jp/photo/IR/IR9397/z-IR9397-on_model-detail_view_2-Bq5SY5QPSv.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "アディダス プレミアム ウインドブレーカー",
+    "general description": "雨の降る日も、少し肌寒い日も、このアディダス ウインドブレーカーがスタイリッシュに身体を包み、快適さをもたらしてくれる。ルーズシェイプのシルエットがくつろぎ感のある雰囲気を演出するから、カジュアルなルックスを犠牲にすることなく悪天候も楽しめる。必需品を携帯するのに便利な複数のポケットと、調節可能なディテールを備えた、機能性も十分な一着。袖にあしらったスリーストライプスなど、アディダスのヘリテージを彷彿とさせるスポーティーなアクセントをあしらっている。どんな場所やシーンでも、スタイリッシュに着こなせるアイテム。",
+    "general description itemized": [
+        "ルーズフィット",
+        "フルジップ / フィット感を調節できるドローコード付きフード",
+        "ポリエステル100%（プレーンウィーブ）",
+        "フラップ付きフロントポケット",
+        "フラップ付き胸ポケット",
+        "袖口はボタンで調節可能",
+        "商品番号：IR9397",
+        "色：プリラブドインク"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "フード長さ",
+            "袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            [
+                "120cm",
+                "123cm",
+                "128cm",
+                "130cm",
+                "135cm",
+                "141cm",
+                "148cm"
+            ],
+            [
+                "76cm",
+                "77cm",
+                "78cm",
+                "78cm",
+                "79cm",
+                "81cm",
+                "82cm"
+            ],
+            [
+                "47cm",
+                "48cm",
+                "49cm",
+                "49cm",
+                "50cm",
+                "51cm",
+                "52cm"
+            ],
+            [
+                "82cm",
+                "82cm",
+                "82cm",
+                "83cm",
+                "83cm",
+                "84cm",
+                "84cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "アウター",
+        "ウインドブレーカー",
+        "オリジナルス",
+        "スプリングコレクション",
+        "KMC43"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IU0216/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "ウェア・服",
+        "アウター",
+        "ウインドブレーカー",
+        "オリジナルス",
+        "スプリングコレクション",
+        "アディダス プレミアム ウインドブレーカー"
+    ],
+    "category": "メンズ オリジナルス",
+    "product name": "アディダス プレミアム ウインドブレーカー",
+    "product price": "35,200",
+    "available sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IU/IU0216/z-IU0216-on_model-standard_view-rFsImKGpt4.jpg",
+        "https://shop.adidas.jp/photo/IU/IU0216/z-IU0216-on_model-back_view-3dVEfoaJyg.jpg",
+        "https://shop.adidas.jp/photo/IU/IU0216/z-IU0216-on_model-walking_view-PUgwmgJzd7.jpg",
+        "https://shop.adidas.jp/photo/IU/IU0216/z-IU0216-3d_torso-front_center_view-gsYp10lix3.jpg",
+        "https://shop.adidas.jp/photo/IU/IU0216/z-IU0216-on_model-detail_view_1-aHYnYfntkf.jpg",
+        "https://shop.adidas.jp/photo/IU/IU0216/z-IU0216-on_model-detail_view_2-9Nvw2EhWEg.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "アディダス プレミアム ウインドブレーカー",
+    "general description": "雨の降る日も、少し肌寒い日も、このアディダス ウインドブレーカーがスタイリッシュに身体を包み、快適さをもたらしてくれる。ルーズシェイプのシルエットがくつろぎ感のある雰囲気を演出するから、カジュアルなルックスを犠牲にすることなく悪天候も楽しめる。必需品を携帯するのに便利な複数のポケットと、調節可能なディテールを備えた、機能性も十分な一着。袖にあしらったスリーストライプスなど、アディダスのヘリテージを彷彿とさせるスポーティーなアクセントをあしらっている。どんな場所やシーンでも、スタイリッシュに着こなせるアイテム。",
+    "general description itemized": [
+        "ルーズフィット",
+        "フルジップ / フィット感を調節できるドローコード付きフード",
+        "ポリエステル100%（プレーンウィーブ）",
+        "フラップ付きフロントポケット",
+        "フラップ付き胸ポケット",
+        "袖口はボタンで調節可能",
+        "商品番号：IU0216",
+        "色：ワンダーホワイト"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "フード長さ",
+            "袖丈"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            [
+                "120cm",
+                "123cm",
+                "128cm",
+                "130cm",
+                "135cm",
+                "141cm",
+                "148cm"
+            ],
+            [
+                "76cm",
+                "77cm",
+                "78cm",
+                "78cm",
+                "79cm",
+                "81cm",
+                "82cm"
+            ],
+            [
+                "47cm",
+                "48cm",
+                "49cm",
+                "49cm",
+                "50cm",
+                "51cm",
+                "52cm"
+            ],
+            [
+                "82cm",
+                "82cm",
+                "82cm",
+                "83cm",
+                "83cm",
+                "84cm",
+                "84cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "アウター",
+        "ウインドブレーカー",
+        "オリジナルス",
+        "スプリングコレクション",
+        "KMC43"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IS2070/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "ウェア・服",
+        "トップス",
+        "ジャージ",
+        "オリジナルス",
+        "スプリングコレクション",
+        "アディダス プレミアム 1/2ジップ トラックトップ（ジャージ）"
+    ],
+    "category": "メンズ オリジナルス",
+    "product name": "アディダス プレミアム 1/2ジップ トラックトップ（ジャージ）",
+    "product price": "16,500",
+    "available sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IS/IS2070/z-IS2070-on_model-standard_view-lqvPXBcAUC.jpg",
+        "https://shop.adidas.jp/photo/IS/IS2070/z-IS2070-on_model-back_view-dz9QtgXYFn.jpg",
+        "https://shop.adidas.jp/photo/IS/IS2070/z-IS2070-on_model-walking_view-rOEtcAzd5i.jpg",
+        "https://shop.adidas.jp/photo/IS/IS2070/z-IS2070-3d_torso-front_center_view-qmG4nfH2xR.jpg",
+        "https://shop.adidas.jp/photo/IS/IS2070/z-IS2070-on_model-detail_view_1-ZHwOLt5hPg.jpg",
+        "https://shop.adidas.jp/photo/IS/IS2070/z-IS2070-on_model-detail_view_2-ifXznOQ7wB.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "アディダス プレミアム 1/2ジップ トラックトップ（ジャージ）",
+    "general description": "アディダスのヘリテージを受け継ぎ、過去を讃えながら未来を切り開くデザインのトラックトップ。フロントのジップポケットに常に携帯するアイテムを入れれば、ハンズフリーで過ごすことができる。リブ仕上げの袖口を備えたスポーティーなシルエットが、身体の自由な動きをかなえる。ジャカード織りファブリックを使用し、クラシックなアディダススタイルにモダンな感性を融合した一着。さらに、コントラストカラーのストライプがパンチの効いたビジュアルを作り出している。\n\nリサイクル素材を選択することで、既に製造された製品の素材を再利用することができ、それがゴミの削減につながる。また、再生可能素材を選択することでも、限りある資源への依存を減らすことができる。この製品は、リサイクル素材や再生可能素材をブレンドしたものを70%以上使用している。",
+    "general description itemized": [
+        "レギュラーフィット",
+        "ハーフジップ / スタンドカラー",
+        "ポリエステル87% / 綿11% / ポリウレタン2%（ジャカード）",
+        "両サイドにジップポケット",
+        "リブ仕上げの袖口と裾",
+        "リサイクル・再生可能素材を70%以上使用",
+        "商品番号：IS2070",
+        "色：プリラブドインク",
+        "生産国：China"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "袖丈",
+            "袖口幅"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            [
+                "99cm",
+                "102cm",
+                "107cm",
+                "109cm",
+                "114cm",
+                "120cm",
+                "127cm"
+            ],
+            [
+                "67cm",
+                "68cm",
+                "69cm",
+                "69cm",
+                "70cm",
+                "72cm",
+                "73cm"
+            ],
+            [
+                "79cm",
+                "79cm",
+                "79cm",
+                "80cm",
+                "80cm",
+                "81cm",
+                "81cm"
+            ],
+            [
+                "19cm",
+                "19cm",
+                "20cm",
+                "20cm",
+                "20cm",
+                "20cm",
+                "21cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "ジャージ",
+        "オリジナルス",
+        "スプリングコレクション",
+        "リサイクル素材と再生可能素材",
+        "KOC31"
+    ]
+}
+{
+    "product_url": "https://shop.adidas.jp/products/IS2921/",
+    "breadcrumbs": [
+        "戻る",
+        "トップ",
+        "メンズ",
+        "ウェア・服",
+        "トップス",
+        "Tシャツ",
+        "オリジナルス",
+        "カモ柄 長袖 カリTシャツ"
+    ],
+    "category": "メンズ オリジナルス",
+    "product name": "カモ柄 長袖 カリTシャツ",
+    "product price": "9,570",
+    "available sizes": [
+        "XS",
+        "S",
+        "M",
+        "L",
+        "XL",
+        "2XL",
+        "3XL"
+    ],
+    "sense": "簡単サイズチェック",
+    "product images": [
+        "https://shop.adidas.jp/photo/IS/IS2921/z-IS2921-on_model-standard_view-uATmOEUStn.jpg",
+        "https://shop.adidas.jp/photo/IS/IS2921/z-IS2921-on_model-back_view-DZqXFJ2IAf.jpg",
+        "https://shop.adidas.jp/photo/IS/IS2921/z-IS2921-on_model-walking_view-rZjLwQFQzE.jpg",
+        "https://shop.adidas.jp/photo/IS/IS2921/z-IS2921-3d_torso-front_center_view-7pMoJft64q.jpg",
+        "https://shop.adidas.jp/photo/IS/IS2921/z-IS2921-on_model-detail_view_1-xHAo8oK9Eg.jpg",
+        "https://shop.adidas.jp/photo/IS/IS2921/z-IS2921-on_model-detail_view_2-nc99Y3glBm.jpg"
+    ],
+    "co-ordinated products": null,
+    "description title": "カモ柄 長袖 カリTシャツ",
+    "general description": "注目の的になること間違いなしの、アディダス オリジナルススタイルのTシャツ。真っ白のグラフィックとスリーストライプスが引き立つ、全体をカモフラージュ柄が埋め尽くすデザイン。リブ仕上げの袖口がウェアの中に温もりを逃がさない作り。身体にフィットするスリムなシルエットだから、レイヤリングアイテムとしても一枚で着てもOK。ソフトなコットンジャージーを使用した、着心地が良くスタイリッシュな、マルチに使える定番アイテム。",
+    "general description itemized": [
+        "スリムフィット",
+        "リブ仕上げのクルーネック",
+        "綿100%（シングルジャージー）",
+        "リブ仕上げのカフ",
+        "商品番号：IS2921",
+        "色：ホワイト"
+    ],
+    "special function": "No special function",
+    "product size chart": {
+        "rowNames": [
+            "",
+            "胸囲",
+            "うしろ着丈",
+            "袖丈",
+            "袖口幅"
+        ],
+        "rowDetail": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            [
+                "XS",
+                "S",
+                "M",
+                "L",
+                "XL",
+                "2XL",
+                "3XL"
+            ],
+            [
+                "90cm",
+                "93cm",
+                "98cm",
+                "100cm",
+                "105cm",
+                "111cm",
+                "118cm"
+            ],
+            [
+                "67cm",
+                "68cm",
+                "69cm",
+                "69cm",
+                "70cm",
+                "72cm",
+                "73cm"
+            ],
+            [
+                "76cm",
+                "77cm",
+                "77cm",
+                "77cm",
+                "78cm",
+                "78cm",
+                "79cm"
+            ],
+            [
+                "19cm",
+                "19cm",
+                "20cm",
+                "20cm",
+                "20cm",
+                "20cm",
+                "21cm"
+            ]
+        ]
+    },
+    "overall rating": null,
+    "overall review count": null,
+    "overall review percentage": null,
+    "all reviews": null,
+    "overall fit sense": [],
+    "keywords": [
+        "ウェア・服",
+        "トップス",
+        "Tシャツ",
+        "オリジナルス",
+        "長袖",
+        "KOP48"
+    ]
+}
