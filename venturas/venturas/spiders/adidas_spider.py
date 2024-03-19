@@ -1,5 +1,3 @@
-import json
-import pandas as pd
 import scrapy
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
@@ -9,6 +7,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
+
 # driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 driver = webdriver.Firefox(service=Service(GeckoDriverManager().install()))
 
@@ -18,8 +17,8 @@ class AdidasSpider(scrapy.Spider):
     allowed_domains = ['www.shop.adidas.jp/']
     start_urls = ['https://shop.adidas.jp/']
 
-    # driver.get('https://shop.adidas.jp/products/IZ4922/')
-    driver.get('https://shop.adidas.jp/item/?gender=mens&category=wear&order=1&limit=120&page=2')
+    # driver.get('https://shop.adidas.jp/products/IR8010/')
+    driver.get('https://shop.adidas.jp/item/?gender=mens&category=wear&order=1&limit=120&page=1')
 
     def parse(self, response):
         driver.maximize_window()
@@ -39,10 +38,12 @@ class AdidasSpider(scrapy.Spider):
             all_cards.append(card_url)
            
         driver.implicitly_wait(2)
+        # for individual testing
+        # all_cards = ['https://shop.adidas.jp/products/IR8010/', 'https://shop.adidas.jp/products/IN6234/']
         for card in all_cards:
             try:
                 driver.get(card)
-
+                print("Start Scraping from: ", card)
                 #current url
                 current_product_link = driver.current_url
 
@@ -86,10 +87,11 @@ class AdidasSpider(scrapy.Spider):
                 #product images
                 img_src_list = None
                 try:
+                    driver.maximize_window()
                     driver.execute_script("window.scrollTo(0, document.body.scrollHeight * 0.2)")
                     button = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, 'showMoreButton')))
                     button.click()
-                    driver.execute_script("window.scrollTo(0, document.body.scrollHeight * 0.5)")
+                    driver.execute_script("window.scrollTo(0, document.body.scrollHeight * 0.4)")
                     driver.implicitly_wait(5)
                     article_image_wrapper = WebDriverWait(driver, 10).until(
                         EC.presence_of_element_located((By.CLASS_NAME, 'article_image_wrapper.isExpand'))
@@ -101,24 +103,35 @@ class AdidasSpider(scrapy.Spider):
                     img_src_list = None
                     print('Exception occured', e)
 
+                #close pop-up
+                try:
+                    driver.implicitly_wait(5)
+                    footer_button = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, 'button.footerstickyClosebutton')))
+                    footer_button.click()
+                except Exception as e: 
+                    print("No footer button present" , e)
+
                 #co-ordinated product
                 ##name, price, productnumber, imageurl, product page url
                 co_ordinate_products = []
                 try:
+                    driver.execute_script("window.scrollTo(0, document.body.scrollHeight * 0.5)")
                     co_ordinate = WebDriverWait(driver, 10).until(
                         EC.presence_of_element_located((By.CLASS_NAME, 'coordinate_box'))
                     )
                     li_elements = co_ordinate.find_elements(By.CSS_SELECTOR, 'li.carouselListitem')
                     for li in li_elements:
                         li.click()
-                        driver.implicitly_wait(5)
+                        time.sleep(5)
                         coordinate_item_container = WebDriverWait(driver, 10).until(
                             EC.presence_of_element_located((By.CSS_SELECTOR, 'div.coordinate_item_container.test-coordinate_item_container.add-open'))
                         )
-                        product_link = coordinate_item_container.find_element(By.CLASS_NAME, 'image_wrapper').find_element(By.CLASS_NAME, 'test-link_a').get_attribute('href')
+                        product_link_element = coordinate_item_container.find_element(By.CLASS_NAME, 'image_wrapper')
+                        product_link = product_link_element.find_element(By.CLASS_NAME, 'test-link_a').get_attribute('href')
                         product_number = product_link.split("/")
                         co_ordinate_product_number = product_number[-1]
-                        product_image = coordinate_item_container.find_element(By.CLASS_NAME, 'image_wrapper').find_element(By.TAG_NAME, 'img').get_attribute('src')
+                        product_image_element = coordinate_item_container.find_element(By.CLASS_NAME, 'image_wrapper')
+                        product_image = product_image_element.find_element(By.TAG_NAME, 'img').get_attribute('src')
 
                         product_info_class = coordinate_item_container.find_element(By.CLASS_NAME, 'info_wrapper')
                         product_title = product_info_class.find_element(By.CSS_SELECTOR, 'span.titleWrapper span.title').text
@@ -132,9 +145,9 @@ class AdidasSpider(scrapy.Spider):
                             "product url": product_link,
                         }
                         co_ordinate_products.append(product)
-                        driver.implicitly_wait(5)
+                        time.sleep(5)
+
                 except Exception as e:
-                    co_ordinate_products = None
                     print("Exception occured: ", e)
                 
                 page_height = driver.execute_script("return document.body.scrollHeight")
@@ -267,36 +280,38 @@ class AdidasSpider(scrapy.Spider):
                     print("Exception", e)
 
                 data = {
-                    'product_url': current_product_link,
-                    'breadcrumbs': breadcrumbs,
-                    'category': category,
-                    'product name': product_name,
-                    'product price': price,
-                    'available sizes': available_sizes,
-                    'sense': sense_text,
-                    'product images': img_src_list,
-                    'co-ordinated products': co_ordinate_products,
-                    'description title': description_title,
-                    'general description': general_description,
-                    'general description itemized': general_description_itemized,
-                    'special function': special_function,
-                    'product size chart': {
-                        'rowNames': row_names,
-                        'rowDetail': row_details
+                    'Product URL': current_product_link,
+                    'Breadcrumbs': breadcrumbs,
+                    'Product Category': category,
+                    'Product Name': product_name,
+                    'Product Price(¥)': price,
+                    'Available Sizes': available_sizes,
+                    'Sense of size': sense_text,
+                    'Product Images': img_src_list,
+                    'Co-ordinated Products': co_ordinate_products,
+                    'Description Title': description_title,
+                    'General Description': general_description,
+                    'General Description Itemized': general_description_itemized,
+                    'Special Function': special_function,
+                    'Product Size Chart': {
+                        'Criteria': row_names,
+                        'Values': row_details
                     },
-                    'overall rating': rating,
-                    'overall review count': review_count,
-                    'overall review percentage': rating_percentage,
-                    'all reviews': all_reviews,
-                    'overall fit sense': all_fit_sense,
-                    'keywords': tags
+                    'Overall Product Rating': rating,
+                    'Overall Review Count': review_count,
+                    'Overall Review Percentage': rating_percentage,
+                    'All User Reviews': all_reviews,
+                    'Overall Fit Sense': all_fit_sense,
+                    'Keywords': tags
                 }
                 yield data
 
-                filename = 'product.txt'
-                with open(filename, 'a', encoding='utf-8') as file:
-                    file.write('\n')
-                    json.dump(data, file, indent=4, ensure_ascii=False)
+                # filename = 'product.txt'
+                # with open(filename, 'a', encoding='utf-8') as file:
+                #     file.write('\n')
+                #     json.dump(data, file, indent=4, ensure_ascii=False)
+
+                print("Finished scraping from: ", card)
             except Exception as e:
                 print("Exception: ", e)
                 continue

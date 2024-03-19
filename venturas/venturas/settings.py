@@ -56,6 +56,10 @@ DOWNLOADER_MIDDLEWARES = {
      'scrapy_user_agents.middlewares.RandomUserAgentMiddleware': 400,
 }
 
+FEED_EXPORTERS = {
+    'xlsx': 'scrapy_xlsx.XlsxItemExporter',
+}
+
 # Enable or disable extensions
 # See https://docs.scrapy.org/en/latest/topics/extensions.html
 #EXTENSIONS = {
@@ -66,7 +70,7 @@ DOWNLOADER_MIDDLEWARES = {
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 
 # ITEM_PIPELINES = {
-#    'venturas.pipelines.MongodbPipeline': 300,
+#    'venturas.pipelines.VenturasPipeline': 300,
 # }
 
 # Enable and configure the AutoThrottle extension (disabled by default)

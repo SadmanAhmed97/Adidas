@@ -23,32 +23,76 @@
 #     allowed_domains = ['www.shop.adidas.jp/']
 #     start_urls = ['https://shop.adidas.jp/']
 
-#     driver.get('https://shop.adidas.jp/products/IZ4922/')
+#     driver.get('https://shop.adidas.jp/products/IR8010/')
 #     def parse(self, response):
-#         # page_height = driver.execute_script("return document.body.scrollHeight")
-#         # scroll_increment = 80 
-#         # scroll_delay = 0.1      
-#         # scroll_position = 0
-#         # while scroll_position < page_height:
-#         #     driver.execute_script(f"window.scrollTo(0, {scroll_position});")
-#         #     time.sleep(scroll_delay)
-#         #     scroll_position += scroll_increment
-#         # driver.maximize_window()
-#         # driver.execute_script("window.scrollTo(0, document.body.scrollHeight * 0.3)")
-#         driver.implicitly_wait(3)
-#         sense_text = None
+#         driver.maximize_window()
+#         img_src_list = None
 #         try:
-#             sense = WebDriverWait(driver, 10).until(
-#                 EC.presence_of_element_located((By.CSS_SELECTOR, 'div._root_07f8c._reset_a112d._sizeTextWrapper_cf9bf'))
+#             driver.maximize_window()
+#             driver.execute_script("window.scrollTo(0, document.body.scrollHeight * 0.2)")
+#             button = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, 'showMoreButton')))
+#             button.click()
+#             driver.execute_script("window.scrollTo(0, document.body.scrollHeight * 0.4)")
+#             driver.implicitly_wait(5)
+#             article_image_wrapper = WebDriverWait(driver, 10).until(
+#                 EC.presence_of_element_located((By.CLASS_NAME, 'article_image_wrapper.isExpand'))
 #             )
-#             sense_text = sense.find_element(By.CSS_SELECTOR, 'span._root_7a104._reset_a112d._blockLevel_7a104._normal_7a104._bold_7a104._whiteSpacePreLine_7a104').text
+#             img_elements = article_image_wrapper.find_elements(By.CLASS_NAME, 'test-img')
+
+#             img_src_list = [img.get_attribute('src') for img in img_elements]
+#         except Exception as e:
+#             img_src_list = None
+#             print('Exception occured', e)
+
+#         #co-ordinated product
+#         ##name, price, productnumber, imageurl, product page url
+#         try:
+#             driver.implicitly_wait(5)
+#             footer_button = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, 'button.footerstickyClosebutton')))
+#             footer_button.click()
+#         except Exception as e: 
+#             print("No footer button present" , e)
+
+#         co_ordinate_products = []
+#         try:
+#             driver.execute_script("window.scrollTo(0, document.body.scrollHeight * 0.5)")
+#             co_ordinate = WebDriverWait(driver, 10).until(
+#                 EC.presence_of_element_located((By.CLASS_NAME, 'coordinate_box'))
+#             )
+#             li_elements = co_ordinate.find_elements(By.CSS_SELECTOR, 'li.carouselListitem')
+#             for li in li_elements:
+#                 li.click()
+#                 time.sleep(5)
+#                 coordinate_item_container = WebDriverWait(driver, 10).until(
+#                     EC.presence_of_element_located((By.CSS_SELECTOR, 'div.coordinate_item_container.test-coordinate_item_container.add-open'))
+#                 )
+#                 product_link_element = coordinate_item_container.find_element(By.CLASS_NAME, 'image_wrapper')
+#                 product_link = product_link_element.find_element(By.CLASS_NAME, 'test-link_a').get_attribute('href')
+#                 product_number = product_link.split("/")
+#                 co_ordinate_product_number = product_number[-1]
+#                 product_image_element = coordinate_item_container.find_element(By.CLASS_NAME, 'image_wrapper')
+#                 product_image = product_image_element.find_element(By.TAG_NAME, 'img').get_attribute('src')
+
+#                 product_info_class = coordinate_item_container.find_element(By.CLASS_NAME, 'info_wrapper')
+#                 product_title = product_info_class.find_element(By.CSS_SELECTOR, 'span.titleWrapper span.title').text
+#                 product_price = product_info_class.find_element(By.CSS_SELECTOR, 'span.price-value').text
+
+#                 product = {
+#                     "product name": product_title,
+#                     "product price": product_price,
+#                     "product number": co_ordinate_product_number,
+#                     "product image": product_image,
+#                     "product url": product_link,
+#                 }
+#                 co_ordinate_products.append(product)
+#                 time.sleep(5)
 
 #         except Exception as e:
-#             sense_text = None
 #             print("Exception occured: ", e)
 
 #         yield {
-#             'sense': sense_text
+#             'images': img_src_list,
+#             'co-ordinate-products': co_ordinate_products
 #         }
         
 #     # driver.quit()
