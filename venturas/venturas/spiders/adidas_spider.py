@@ -18,7 +18,7 @@ class AdidasSpider(scrapy.Spider):
     start_urls = ['https://shop.adidas.jp/']
 
     # driver.get('https://shop.adidas.jp/products/IR8010/')
-    driver.get('https://shop.adidas.jp/item/?gender=mens&category=wear&order=1&limit=120&page=1')
+    driver.get('https://shop.adidas.jp/item/?gender=mens&category=wear&order=1&limit=120&page=2')
 
     def parse(self, response):
         driver.maximize_window()
@@ -170,22 +170,23 @@ class AdidasSpider(scrapy.Spider):
                     general_description = driver.find_element(By.CSS_SELECTOR, '.commentItem-mainText').text
                 except:
                     general_description = None
+
                 #general description (itemization)
                 #response.css('.articleFeatures li::text').getall()
-
                 try:
                     description_points = driver.find_elements(By.CSS_SELECTOR, '.articleFeatures li')
                     general_description_itemized = [item.text for item in description_points]
                 except:
                     general_description_itemized = None
+
                 #special function if any
-                special_function = None
+                special_function = "No special funtion"
                 try:
-                    special_category_name = driver.find_element(By.CSS_SELECTOR, '.item_part .details a').text
+                    special_category_name = driver.find_element(By.CSS_SELECTOR, '.item_part.details a').text
                     special_category_description = driver.find_element(By.CSS_SELECTOR, '.item_part.details').text
                     special_function = special_category_name + ': ' + special_category_description
                 except Exception as e:
-                    special_function = "No special function"
+                    special_function = None
                     print("Exception occured: ", e)
                 
                 #product size chart
